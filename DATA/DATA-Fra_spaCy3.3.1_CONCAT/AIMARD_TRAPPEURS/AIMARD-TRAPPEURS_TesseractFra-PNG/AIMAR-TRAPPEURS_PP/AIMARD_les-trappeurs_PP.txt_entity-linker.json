@@ -1,0 +1,219 @@
+{
+  "ID0": {
+    "url": "https://www.wikidata.org/wiki/Q795061",
+    "span": "Prologue",
+    "label": "Prologue",
+    "description": "album by UK band Renaissance",
+    "type": "MISC"
+  },
+  "ID1": {
+    "url": "https://www.wikidata.org/wiki/Q189138",
+    "span": "Hermosillo",
+    "label": "Hermosillo",
+    "description": "city in Mexico, Sonora state capital",
+    "type": "PER"
+  },
+  "ID2": {
+    "url": "https://www.wikidata.org/wiki/Q30603260",
+    "span": "Sud",
+    "label": "Sud",
+    "description": "",
+    "type": "LOC"
+  },
+  "ID3": {
+    "url": "https://www.wikidata.org/wiki/Q458",
+    "span": "Europe",
+    "label": "European Union",
+    "description": "economic and political union of states mostly located in Europe",
+    "type": "LOC"
+  },
+  "ID4": {
+    "url": "https://www.wikidata.org/wiki/Q3027560",
+    "span": "Dieu",
+    "label": "Dieu",
+    "description": "book by Victor Hugo",
+    "type": "MISC"
+  },
+  "ID5": {
+    "url": "https://www.wikidata.org/wiki/Q2958359",
+    "span": "Charles",
+    "label": "Charles",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID6": {
+    "url": "https://www.wikidata.org/wiki/Q50658583",
+    "span": "Quint",
+    "label": "Quint",
+    "description": "fire apparatus",
+    "type": "PER"
+  },
+  "ID7": {
+    "url": "https://www.wikidata.org/wiki/Q1069376",
+    "span": "\u00c9tat",
+    "label": "Chemins de fer de l'\u00c9tat",
+    "description": "state-owned pre-nationalisation railway in Western France (1878\u20131937)",
+    "type": "LOC"
+  },
+  "ID8": {
+    "url": "https://www.wikidata.org/wiki/Q46422",
+    "span": "Sonora",
+    "label": "Sonora",
+    "description": "one of the states of Mexico",
+    "type": "LOC"
+  },
+  "ID9": {
+    "url": "https://www.wikidata.org/wiki/Q1069376",
+    "span": "\u00c9tat",
+    "label": "Chemins de fer de l'\u00c9tat",
+    "description": "state-owned pre-nationalisation railway in Western France (1878\u20131937)",
+    "type": "LOC"
+  },
+  "ID10": {
+    "url": "https://www.wikidata.org/wiki/Q27959547",
+    "span": "Madre",
+    "label": "Madre",
+    "description": "2016 film by Sim\u00f3n Mesa Soto",
+    "type": "LOC"
+  },
+  "ID11": {
+    "url": "https://www.wikidata.org/wiki/Q27959547",
+    "span": "Madre",
+    "label": "Madre",
+    "description": "2016 film by Sim\u00f3n Mesa Soto",
+    "type": "LOC"
+  },
+  "ID12": {
+    "url": "https://www.wikidata.org/wiki/Q1012665",
+    "span": "Durango",
+    "label": "Durango",
+    "description": "city in and county seat of La Plata County, Colorado, United States",
+    "type": "LOC"
+  },
+  "ID13": {
+    "url": "https://www.wikidata.org/wiki/Q1012665",
+    "span": "Durango",
+    "label": "Durango",
+    "description": "city in and county seat of La Plata County, Colorado, United States",
+    "type": "LOC"
+  },
+  "ID14": {
+    "url": "https://www.wikidata.org/wiki/Q9022",
+    "span": "Guadalajara",
+    "label": "Guadalajara",
+    "description": "city in Jalisco, M\u00e9xico",
+    "type": "LOC"
+  },
+  "ID15": {
+    "url": "https://www.wikidata.org/wiki/Q3657896",
+    "span": "Pacifique",
+    "label": "Pacifique",
+    "description": "2000 album by Deep Forest",
+    "type": "LOC"
+  },
+  "ID16": {
+    "url": "https://www.wikidata.org/wiki/Q46422",
+    "span": "Sonora",
+    "label": "Sonora",
+    "description": "one of the states of Mexico",
+    "type": "LOC"
+  },
+  "ID17": {
+    "url": "https://www.wikidata.org/wiki/Q27959547",
+    "span": "Madre",
+    "label": "Madre",
+    "description": "2016 film by Sim\u00f3n Mesa Soto",
+    "type": "LOC"
+  },
+  "ID18": {
+    "url": "https://www.wikidata.org/wiki/Q117133",
+    "span": "Comanches",
+    "label": "Comanche",
+    "description": "Plains Indian tribe whose historic territory consisted of eastern New Mexico, southeastern Colorado, southwestern Kansas, western Oklahoma, and northwest Texas",
+    "type": "PER"
+  },
+  "ID19": {
+    "url": "https://www.wikidata.org/wiki/Q750947",
+    "span": "Pawnees",
+    "label": "Pawnee people",
+    "description": "ethnic group",
+    "type": "LOC"
+  },
+  "ID20": {
+    "url": "https://www.wikidata.org/wiki/Q102090",
+    "span": "Apaches",
+    "label": "Apache",
+    "description": "several culturally related groups of indigenous peoples of the United States",
+    "type": "MISC"
+  },
+  "ID21": {
+    "url": "https://www.wikidata.org/wiki/Q46422",
+    "span": "Sonora",
+    "label": "Sonora",
+    "description": "one of the states of Mexico",
+    "type": "LOC"
+  },
+  "ID22": {
+    "url": "https://www.wikidata.org/wiki/Q985521",
+    "span": "Guaymas",
+    "label": "Guaymas",
+    "description": "city in Sonora, Mexico",
+    "type": "LOC"
+  },
+  "ID23": {
+    "url": "https://www.wikidata.org/wiki/Q189138",
+    "span": "Hermosillo",
+    "label": "Hermosillo",
+    "description": "city in Mexico, Sonora state capital",
+    "type": "PER"
+  },
+  "ID24": {
+    "url": "https://www.wikidata.org/wiki/Q1849047",
+    "span": "Arispe",
+    "label": "Arispe",
+    "description": "human settlement in Union County, Iowa, United States of America",
+    "type": "PER"
+  },
+  "ID25": {
+    "url": "https://www.wikidata.org/wiki/Q189138",
+    "span": "Hermosillo",
+    "label": "Hermosillo",
+    "description": "city in Mexico, Sonora state capital",
+    "type": "PER"
+  },
+  "ID26": {
+    "url": "https://www.wikidata.org/wiki/Q189138",
+    "span": "Pitic",
+    "label": "Hermosillo",
+    "description": "city in Mexico, Sonora state capital",
+    "type": "LOC"
+  },
+  "ID27": {
+    "url": "https://www.wikidata.org/wiki/Q474038",
+    "span": "Boulbon",
+    "label": "Boulbon",
+    "description": "commune in Bouches-du-Rh\u00f4ne, France",
+    "type": "MISC"
+  },
+  "ID28": {
+    "url": "https://www.wikidata.org/wiki/Q3657896",
+    "span": "Pacifique",
+    "label": "Pacifique",
+    "description": "2000 album by Deep Forest",
+    "type": "LOC"
+  },
+  "ID29": {
+    "url": "https://www.wikidata.org/wiki/Q914086",
+    "span": "Cerro",
+    "label": "Cerro Porte\u00f1o",
+    "description": "Paraguayan football club",
+    "type": "LOC"
+  },
+  "ID30": {
+    "url": "https://www.wikidata.org/wiki/Q1030194",
+    "span": "campana",
+    "label": "Campana",
+    "description": "city in the province of Buenos Aires in Argentina",
+    "type": "LOC"
+  }
+}

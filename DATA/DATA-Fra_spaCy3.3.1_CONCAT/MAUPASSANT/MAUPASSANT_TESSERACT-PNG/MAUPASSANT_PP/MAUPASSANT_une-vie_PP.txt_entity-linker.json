@@ -1,0 +1,114 @@
+{
+  "ID0": {
+    "url": "https://www.wikidata.org/wiki/Q63821555",
+    "span": "Jeanne",
+    "label": "Joan of Arc",
+    "description": "2019 film directed by Bruno Dumont",
+    "type": "PER"
+  },
+  "ID1": {
+    "url": "https://www.wikidata.org/wiki/Q63821555",
+    "span": "Jeanne",
+    "label": "Joan of Arc",
+    "description": "2019 film directed by Bruno Dumont",
+    "type": "PER"
+  },
+  "ID2": {
+    "url": "https://www.wikidata.org/wiki/Q3444710",
+    "span": "carton",
+    "label": "carton",
+    "description": "box or container usually made of paperboard and sometimes of corrugated fiberboard",
+    "type": "MISC"
+  },
+  "ID3": {
+    "url": "https://www.wikidata.org/wiki/Q4904749",
+    "span": "biffa",
+    "label": "Biffa",
+    "description": "waste management company headquartered in High Wycombe, United Kingdom",
+    "type": "ORG"
+  },
+  "ID4": {
+    "url": "https://www.wikidata.org/wiki/Q1187079",
+    "span": "Jeannette",
+    "label": "Jeannette",
+    "description": "city of Pennsylvania",
+    "type": "PER"
+  },
+  "ID5": {
+    "url": "https://www.wikidata.org/wiki/Q63821555",
+    "span": "Jeanne",
+    "label": "Joan of Arc",
+    "description": "2019 film directed by Bruno Dumont",
+    "type": "PER"
+  },
+  "ID6": {
+    "url": "https://www.wikidata.org/wiki/Q33923",
+    "span": "Simon",
+    "label": "Peter",
+    "description": "apostle and first pope",
+    "type": "PER"
+  },
+  "ID7": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "PER"
+  },
+  "ID8": {
+    "url": "https://www.wikidata.org/wiki/Q1228422",
+    "span": "Disciple",
+    "label": "Disciple",
+    "description": "Christian metal band from the USA",
+    "type": "PER"
+  },
+  "ID9": {
+    "url": "https://www.wikidata.org/wiki/Q6527",
+    "span": "Rousseau",
+    "label": "Jean-Jacques Rousseau",
+    "description": "Genevan philosopher, writer, and composer",
+    "type": "PER"
+  },
+  "ID10": {
+    "url": "https://www.wikidata.org/wiki/Q157",
+    "span": "Hollande",
+    "label": "Fran\u00e7ois Hollande",
+    "description": "French official and statesman",
+    "type": "PER"
+  },
+  "ID11": {
+    "url": "https://www.wikidata.org/wiki/Q48979827",
+    "span": "narine",
+    "label": "Narine",
+    "description": "",
+    "type": "PER"
+  },
+  "ID12": {
+    "url": "https://www.wikidata.org/wiki/Q180083",
+    "span": "menton",
+    "label": "Menton",
+    "description": "commune in Alpes-Maritimes, France",
+    "type": "PER"
+  },
+  "ID13": {
+    "url": "https://www.wikidata.org/wiki/Q30974",
+    "span": "Rouen",
+    "label": "Rouen",
+    "description": "commune in Seine-Maritime, France",
+    "type": "LOC"
+  },
+  "ID14": {
+    "url": "https://www.wikidata.org/wiki/Q90",
+    "span": "Paris",
+    "label": "Paris",
+    "description": "capital and largest city of France",
+    "type": "LOC"
+  },
+  "ID15": {
+    "url": "https://www.wikidata.org/wiki/Q817173",
+    "span": "Yport",
+    "label": "Yport",
+    "description": "commune in Seine-Maritime, France",
+    "type": "LOC"
+  }
+}

@@ -1,0 +1,184 @@
+{
+  "ID0": {
+    "url": "https://www.wikidata.org/wiki/Q5322942",
+    "span": "EE",
+    "label": "EE",
+    "description": "telecommunications company",
+    "type": "MISC"
+  },
+  "ID1": {
+    "url": "https://www.wikidata.org/wiki/Q1272",
+    "span": "rg",
+    "label": "roentgenium",
+    "description": "chemical element with atomic number 111",
+    "type": "PER"
+  },
+  "ID2": {
+    "url": "https://www.wikidata.org/wiki/Q206221",
+    "span": "Languedoc",
+    "label": "Languedoc",
+    "description": "historical province of France",
+    "type": "LOC"
+  },
+  "ID3": {
+    "url": "https://www.wikidata.org/wiki/Q7081181",
+    "span": "oi",
+    "label": "oi",
+    "description": "interjection",
+    "type": "ORG"
+  },
+  "ID4": {
+    "url": "https://www.wikidata.org/wiki/Q1237299",
+    "span": "Midi",
+    "label": "Southern France",
+    "description": "geographic region",
+    "type": "LOC"
+  },
+  "ID5": {
+    "url": "https://www.wikidata.org/wiki/Q7557553",
+    "span": "soleil",
+    "label": "Soleil",
+    "description": "Australian skyscraper",
+    "type": "LOC"
+  },
+  "ID6": {
+    "url": "https://www.wikidata.org/wiki/Q186277",
+    "span": "Carmelites",
+    "label": "Carmelites",
+    "description": "Catholic mendicant religious order",
+    "type": "ORG"
+  },
+  "ID7": {
+    "url": "https://www.wikidata.org/wiki/Q114375",
+    "span": "memoire",
+    "label": "m\u00e9moire",
+    "description": "piece of writing allowing the author to show his or her opinion on a given subject",
+    "type": "PER"
+  },
+  "ID8": {
+    "url": "https://www.wikidata.org/wiki/Q856651",
+    "span": "Bibliotheque nationale",
+    "label": "National Library of Luxembourg",
+    "description": "national library",
+    "type": "ORG"
+  },
+  "ID9": {
+    "url": "https://www.wikidata.org/wiki/Q23482",
+    "span": "Marseille",
+    "label": "Marseille",
+    "description": "commune in Bouches-du-Rh\u00f4ne, the second largest city of France",
+    "type": "LOC"
+  },
+  "ID10": {
+    "url": "https://www.wikidata.org/wiki/Q1058292",
+    "span": "francs",
+    "label": "Francs",
+    "description": "commune in Gironde, France",
+    "type": "MISC"
+  },
+  "ID11": {
+    "url": "https://www.wikidata.org/wiki/Q23482",
+    "span": "Marseille",
+    "label": "Marseille",
+    "description": "commune in Bouches-du-Rh\u00f4ne, the second largest city of France",
+    "type": "LOC"
+  },
+  "ID12": {
+    "url": "https://www.wikidata.org/wiki/Q80115",
+    "span": "Daniel",
+    "label": "Book of Daniel",
+    "description": "book of the Bible",
+    "type": "PER"
+  },
+  "ID13": {
+    "url": "https://www.wikidata.org/wiki/Q18035578",
+    "span": "etoile",
+    "label": "KHDRBS3",
+    "description": "protein-coding gene in the species Homo sapiens",
+    "type": "PER"
+  },
+  "ID14": {
+    "url": "https://www.wikidata.org/wiki/Q23482",
+    "span": "Marseille",
+    "label": "Marseille",
+    "description": "commune in Bouches-du-Rh\u00f4ne, the second largest city of France",
+    "type": "LOC"
+  },
+  "ID15": {
+    "url": "https://www.wikidata.org/wiki/Q578088",
+    "span": "r8",
+    "label": "Renault 8",
+    "description": "automobile brand",
+    "type": "ORG"
+  },
+  "ID16": {
+    "url": "https://www.wikidata.org/wiki/Q707878",
+    "span": "frere",
+    "label": "Pierre \u00c9douard Fr\u00e8re",
+    "description": "French painter",
+    "type": "PER"
+  },
+  "ID17": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "PER"
+  },
+  "ID18": {
+    "url": "https://www.wikidata.org/wiki/Q954961",
+    "span": "Colombe",
+    "label": "Colombe",
+    "description": "commune in Is\u00e8re, France",
+    "type": "LOC"
+  },
+  "ID19": {
+    "url": "https://www.wikidata.org/wiki/Q2164632",
+    "span": "Rouget",
+    "label": "Georges Rouget",
+    "description": "French painter",
+    "type": "PER"
+  },
+  "ID20": {
+    "url": "https://www.wikidata.org/wiki/Q2164632",
+    "span": "Rouget",
+    "label": "Georges Rouget",
+    "description": "French painter",
+    "type": "PER"
+  },
+  "ID21": {
+    "url": "https://www.wikidata.org/wiki/Q2164632",
+    "span": "Rouget",
+    "label": "Georges Rouget",
+    "description": "French painter",
+    "type": "PER"
+  },
+  "ID22": {
+    "url": "https://www.wikidata.org/wiki/Q7557553",
+    "span": "soleil",
+    "label": "Soleil",
+    "description": "Australian skyscraper",
+    "type": "LOC"
+  },
+  "ID23": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "PER"
+  },
+  "ID24": {
+    "url": "https://www.wikidata.org/wiki/Q3027560",
+    "span": "Dieu",
+    "label": "Dieu",
+    "description": "book by Victor Hugo",
+    "type": "MISC"
+  },
+  "ID25": {
+    "url": "https://www.wikidata.org/wiki/Q902860",
+    "span": "Ohl",
+    "label": "Ontario Hockey League",
+    "description": "sports league",
+    "type": "PER"
+  }
+}

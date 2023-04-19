@@ -1,0 +1,156 @@
+{
+  "ID0": {
+    "url": "https://www.wikidata.org/wiki/Q1431176",
+    "span": "Vil",
+    "label": "Dakhla Airport",
+    "description": "airport in Morocco",
+    "type": "LOC"
+  },
+  "ID1": {
+    "url": "https://www.wikidata.org/wiki/Q188411",
+    "span": "Bernard",
+    "label": "Bernard of Clairvaux",
+    "description": "French abbot, theologian",
+    "type": "MISC"
+  },
+  "ID2": {
+    "url": "https://www.wikidata.org/wiki/Q856651",
+    "span": "Bibliotheque nationale",
+    "label": "National Library of Luxembourg",
+    "description": "national library",
+    "type": "ORG"
+  },
+  "ID3": {
+    "url": "https://www.wikidata.org/wiki/Q7537831",
+    "span": "ILE",
+    "label": "Skylark Field",
+    "description": "airport in Texas, United States of America",
+    "type": "LOC"
+  },
+  "ID4": {
+    "url": "https://www.wikidata.org/wiki/Q273779",
+    "span": "Saint-Louis",
+    "label": "Saint-Louis",
+    "description": "city and regional capital in Senegal",
+    "type": "LOC"
+  },
+  "ID5": {
+    "url": "https://www.wikidata.org/wiki/Q345",
+    "span": "Notre-Dame",
+    "label": "Virgin Mary",
+    "description": "religious figure and mother of Jesus of Nazareth",
+    "type": "LOC"
+  },
+  "ID6": {
+    "url": "https://www.wikidata.org/wiki/Q90",
+    "span": "Paris",
+    "label": "Paris",
+    "description": "capital and largest city of France",
+    "type": "LOC"
+  },
+  "ID7": {
+    "url": "https://www.wikidata.org/wiki/Q20656226",
+    "span": "Frederic",
+    "label": "Frederic",
+    "description": "Japanese rock band",
+    "type": "PER"
+  },
+  "ID8": {
+    "url": "https://www.wikidata.org/wiki/Q203828",
+    "span": "Moreau",
+    "label": "Gustave Moreau",
+    "description": "French painter",
+    "type": "PER"
+  },
+  "ID9": {
+    "url": "https://www.wikidata.org/wiki/Q476895",
+    "span": "Nogent-sur-Seine",
+    "label": "Nogent-sur-Seine",
+    "description": "commune in Aube, France",
+    "type": "LOC"
+  },
+  "ID10": {
+    "url": "https://www.wikidata.org/wiki/Q586615",
+    "span": "mre",
+    "label": "Meal, Ready-to-Eat",
+    "description": "meal supplied by the US military",
+    "type": "PER"
+  },
+  "ID11": {
+    "url": "https://www.wikidata.org/wiki/Q959425",
+    "span": "Havre",
+    "label": "Havre",
+    "description": "city in Hill County, Montana, United States",
+    "type": "LOC"
+  },
+  "ID12": {
+    "url": "https://www.wikidata.org/wiki/Q490032",
+    "span": "chine",
+    "label": "chine",
+    "description": "",
+    "type": "LOC"
+  },
+  "ID13": {
+    "url": "https://www.wikidata.org/wiki/Q2797",
+    "span": "rle",
+    "label": "run-length encoding",
+    "description": "simple form of data compression in which runs of data (sequences in which the same data value occurs in many consecutive data elements) are stored as a single data value and count",
+    "type": "MISC"
+  },
+  "ID14": {
+    "url": "https://www.wikidata.org/wiki/Q7557553",
+    "span": "soleil",
+    "label": "Soleil",
+    "description": "Australian skyscraper",
+    "type": "LOC"
+  },
+  "ID15": {
+    "url": "https://www.wikidata.org/wiki/Q1471",
+    "span": "Seine",
+    "label": "Seine",
+    "description": "river in France",
+    "type": "LOC"
+  },
+  "ID16": {
+    "url": "https://www.wikidata.org/wiki/Q391320",
+    "span": "Eles",
+    "label": "Eles",
+    "description": "village in Tunisia",
+    "type": "LOC"
+  },
+  "ID17": {
+    "url": "https://www.wikidata.org/wiki/Q12821337",
+    "span": "Dej",
+    "label": "Dey",
+    "description": "title given to the rulers of the Regency of Algiers (Algeria), Tripoli, and Tunis under the Ottoman Empire",
+    "type": "LOC"
+  },
+  "ID18": {
+    "url": "https://www.wikidata.org/wiki/Q829407",
+    "span": "gaillard",
+    "label": "Gaillard",
+    "description": "commune in Haute-Savoie, France",
+    "type": "PER"
+  },
+  "ID19": {
+    "url": "https://www.wikidata.org/wiki/Q215408",
+    "span": "presence",
+    "label": "Presence",
+    "description": "1976 studio album by Led Zeppelin",
+    "type": "PER"
+  },
+  "ID20": {
+    "url": "https://www.wikidata.org/wiki/Q883068",
+    "span": "eil",
+    "label": "Eil",
+    "description": "city quarter no. 705 of Cologne, Germany",
+    "type": "ORG"
+  },
+  "ID21": {
+    "url": "https://www.wikidata.org/wiki/Q414232",
+    "span": "mme",
+    "label": "Membrane metalloendopeptidase",
+    "description": "mammalian protein found in Homo sapiens",
+    "type": "PER"
+  }
+}

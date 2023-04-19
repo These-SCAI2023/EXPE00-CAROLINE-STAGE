@@ -1,0 +1,163 @@
+{
+  "ID0": {
+    "url": "https://www.wikidata.org/wiki/Q21507916",
+    "span": "MICHELET",
+    "label": "Michelet",
+    "description": "family name",
+    "type": "MISC"
+  },
+  "ID1": {
+    "url": "https://www.wikidata.org/wiki/Q880064",
+    "span": "Lune",
+    "label": "Lune",
+    "description": "river in Germany",
+    "type": "LOC"
+  },
+  "ID2": {
+    "url": "https://www.wikidata.org/wiki/Q1538",
+    "span": "Pune",
+    "label": "Pune",
+    "description": "city in Maharashtra, India",
+    "type": "LOC"
+  },
+  "ID3": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID4": {
+    "url": "https://www.wikidata.org/wiki/Q610056",
+    "span": "Ja",
+    "label": "\u091c",
+    "description": "eighth consonant in many Brahmi-derived abugidas",
+    "type": "MISC"
+  },
+  "ID5": {
+    "url": "https://www.wikidata.org/wiki/Q17364511",
+    "span": "fede",
+    "label": "Federico San Emeterio",
+    "description": "Spanish footballer",
+    "type": "PER"
+  },
+  "ID6": {
+    "url": "https://www.wikidata.org/wiki/Q104319",
+    "span": "sda",
+    "label": "Seventh-day Adventist Church",
+    "description": "Christian church",
+    "type": "ORG"
+  },
+  "ID7": {
+    "url": "https://www.wikidata.org/wiki/Q1166745",
+    "span": "Fontenay",
+    "label": "Fontenay",
+    "description": "commune in Seine-Maritime, France",
+    "type": "LOC"
+  },
+  "ID8": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID9": {
+    "url": "https://www.wikidata.org/wiki/Q1166745",
+    "span": "Fontenay",
+    "label": "Fontenay",
+    "description": "commune in Seine-Maritime, France",
+    "type": "LOC"
+  },
+  "ID10": {
+    "url": "https://www.wikidata.org/wiki/Q724860",
+    "span": "Henri",
+    "label": "Robert Henri",
+    "description": "American painter",
+    "type": "PER"
+  },
+  "ID11": {
+    "url": "https://www.wikidata.org/wiki/Q40747",
+    "span": "Pierre",
+    "label": "Pierre",
+    "description": "capital city of South Dakota and county seat of Hughes County",
+    "type": "MISC"
+  },
+  "ID12": {
+    "url": "https://www.wikidata.org/wiki/Q17146837",
+    "span": "Madame",
+    "label": "Madam",
+    "description": "polite form of address for women, especially in American English",
+    "type": "PER"
+  },
+  "ID13": {
+    "url": "https://www.wikidata.org/wiki/Q1166745",
+    "span": "Fontenay",
+    "label": "Fontenay",
+    "description": "commune in Seine-Maritime, France",
+    "type": "LOC"
+  },
+  "ID14": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID15": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID16": {
+    "url": "https://www.wikidata.org/wiki/Q1469646",
+    "span": "Bs",
+    "label": "Bloom syndrome",
+    "description": "rare genetic disorder with short strature and predisposition to cancer",
+    "type": "LOC"
+  },
+  "ID17": {
+    "url": "https://www.wikidata.org/wiki/Q1166745",
+    "span": "Fontenay",
+    "label": "Fontenay",
+    "description": "commune in Seine-Maritime, France",
+    "type": "LOC"
+  },
+  "ID18": {
+    "url": "https://www.wikidata.org/wiki/Q59220438",
+    "span": "Marie",
+    "label": "Isabelle",
+    "description": "fictional video game character from the Animal Crossing series",
+    "type": "PER"
+  },
+  "ID19": {
+    "url": "https://www.wikidata.org/wiki/Q3357881",
+    "span": "oti",
+    "label": "Oti",
+    "description": "language",
+    "type": "MISC"
+  },
+  "ID20": {
+    "url": "https://www.wikidata.org/wiki/Q108356",
+    "span": "Sabine",
+    "label": "Sabines",
+    "description": "ancient Italic tribe",
+    "type": "PER"
+  },
+  "ID21": {
+    "url": "https://www.wikidata.org/wiki/Q4802575",
+    "span": "Vois",
+    "label": "Ary de Vois",
+    "description": "Dutch painter",
+    "type": "PER"
+  },
+  "ID22": {
+    "url": "https://www.wikidata.org/wiki/Q59220438",
+    "span": "Marie",
+    "label": "Isabelle",
+    "description": "fictional video game character from the Animal Crossing series",
+    "type": "PER"
+  }
+}

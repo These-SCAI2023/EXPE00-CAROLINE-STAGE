@@ -1,0 +1,205 @@
+{
+  "ID0": {
+    "url": "https://www.wikidata.org/wiki/Q21450529",
+    "span": "Duclos",
+    "label": "Duclos",
+    "description": "family name",
+    "type": "PER"
+  },
+  "ID1": {
+    "url": "https://www.wikidata.org/wiki/Q34943",
+    "span": "Claude",
+    "label": "Ptolemy",
+    "description": "Greco-Egyptian writer and astronomer of Alexandria",
+    "type": "PER"
+  },
+  "ID2": {
+    "url": "https://www.wikidata.org/wiki/Q7081181",
+    "span": "oi",
+    "label": "oi",
+    "description": "interjection",
+    "type": "ORG"
+  },
+  "ID3": {
+    "url": "https://www.wikidata.org/wiki/Q688493",
+    "span": "couvet",
+    "label": "Couvet",
+    "description": "former municipality of Switzerland in Neuch\u00e2tel",
+    "type": "PER"
+  },
+  "ID4": {
+    "url": "https://www.wikidata.org/wiki/Q235",
+    "span": "MON",
+    "label": "Monaco",
+    "description": "principality in Western Europe",
+    "type": "MISC"
+  },
+  "ID5": {
+    "url": "https://www.wikidata.org/wiki/Q467925",
+    "span": "Desiree",
+    "label": "Desire\u00e9 Cousteau",
+    "description": "American pornographic actress",
+    "type": "PER"
+  },
+  "ID6": {
+    "url": "https://www.wikidata.org/wiki/Q1179064",
+    "span": "Monte",
+    "label": "Monte",
+    "description": "civil parish in Funchal",
+    "type": "LOC"
+  },
+  "ID7": {
+    "url": "https://www.wikidata.org/wiki/Q170434",
+    "span": "dos",
+    "label": "Disk Operating System",
+    "description": "group of closely-related PC-compatible operating systems",
+    "type": "MISC"
+  },
+  "ID8": {
+    "url": "https://www.wikidata.org/wiki/Q10521894",
+    "span": "hen",
+    "label": "hen",
+    "description": "Swedish gender-neutral pronoun (3rd person singular)",
+    "type": "MISC"
+  },
+  "ID9": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID10": {
+    "url": "https://www.wikidata.org/wiki/Q7234232",
+    "span": "pres",
+    "label": "Posterior reversible encephalopathy syndrome",
+    "description": "",
+    "type": "LOC"
+  },
+  "ID11": {
+    "url": "https://www.wikidata.org/wiki/Q235",
+    "span": "MON",
+    "label": "Monaco",
+    "description": "principality in Western Europe",
+    "type": "MISC"
+  },
+  "ID12": {
+    "url": "https://www.wikidata.org/wiki/Q201157",
+    "span": "Roux",
+    "label": "George Roux",
+    "description": "French painter",
+    "type": "PER"
+  },
+  "ID13": {
+    "url": "https://www.wikidata.org/wiki/Q101935",
+    "span": "huguenot",
+    "label": "Huguenot",
+    "description": "ethnoreligious group, French Calvinists",
+    "type": "PER"
+  },
+  "ID14": {
+    "url": "https://www.wikidata.org/wiki/Q3027560",
+    "span": "Dieu",
+    "label": "Dieu",
+    "description": "book by Victor Hugo",
+    "type": "MISC"
+  },
+  "ID15": {
+    "url": "https://www.wikidata.org/wiki/Q3164791",
+    "span": "Jean-Claude",
+    "label": "Jean-Claude",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID16": {
+    "url": "https://www.wikidata.org/wiki/Q4868070",
+    "span": "Basset",
+    "label": "Basset",
+    "description": "",
+    "type": "LOC"
+  },
+  "ID17": {
+    "url": "https://www.wikidata.org/wiki/Q15444128",
+    "span": "Hardi",
+    "label": "French destroyer Le Hardi",
+    "description": "Le Hardi-class destroyer",
+    "type": "PER"
+  },
+  "ID18": {
+    "url": "https://www.wikidata.org/wiki/Q391321",
+    "span": "Jacqueline",
+    "label": "Jacqueline",
+    "description": "female given name",
+    "type": "PER"
+  },
+  "ID19": {
+    "url": "https://www.wikidata.org/wiki/Q244380",
+    "span": "Denis",
+    "label": "Saint Denis",
+    "description": "3rd-century Bishop of Paris and saint",
+    "type": "PER"
+  },
+  "ID20": {
+    "url": "https://www.wikidata.org/wiki/Q170434",
+    "span": "dos",
+    "label": "Disk Operating System",
+    "description": "group of closely-related PC-compatible operating systems",
+    "type": "MISC"
+  },
+  "ID21": {
+    "url": "https://www.wikidata.org/wiki/Q945470",
+    "span": "D\u00e9sir\u00e9e",
+    "label": "D\u00e9sir\u00e9e",
+    "description": "1954 film by Henry Koster",
+    "type": "PER"
+  },
+  "ID22": {
+    "url": "https://www.wikidata.org/wiki/Q1068404",
+    "span": "Leroy",
+    "label": "Memphis Slim",
+    "description": "American recording artist; blues pianist, singer, and composer",
+    "type": "PER"
+  },
+  "ID23": {
+    "url": "https://www.wikidata.org/wiki/Q629",
+    "span": "O",
+    "label": "oxygen",
+    "description": "element with the atomic number of 8",
+    "type": "LOC"
+  },
+  "ID24": {
+    "url": "https://www.wikidata.org/wiki/Q201157",
+    "span": "Roux",
+    "label": "George Roux",
+    "description": "French painter",
+    "type": "PER"
+  },
+  "ID25": {
+    "url": "https://www.wikidata.org/wiki/Q201157",
+    "span": "Roux",
+    "label": "George Roux",
+    "description": "French painter",
+    "type": "PER"
+  },
+  "ID26": {
+    "url": "https://www.wikidata.org/wiki/Q235",
+    "span": "MON",
+    "label": "Monaco",
+    "description": "principality in Western Europe",
+    "type": "MISC"
+  },
+  "ID27": {
+    "url": "https://www.wikidata.org/wiki/Q40747",
+    "span": "Pierre",
+    "label": "Pierre",
+    "description": "capital city of South Dakota and county seat of Hughes County",
+    "type": "MISC"
+  },
+  "ID28": {
+    "url": "https://www.wikidata.org/wiki/Q629",
+    "span": "O",
+    "label": "oxygen",
+    "description": "element with the atomic number of 8",
+    "type": "LOC"
+  }
+}

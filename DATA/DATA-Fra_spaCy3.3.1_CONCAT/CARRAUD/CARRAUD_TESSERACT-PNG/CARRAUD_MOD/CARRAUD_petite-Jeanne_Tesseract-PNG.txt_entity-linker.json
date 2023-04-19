@@ -1,0 +1,107 @@
+{
+  "ID0": {
+    "url": "https://www.wikidata.org/wiki/Q3516835",
+    "span": "eit",
+    "label": "enhanced interrogation techniques",
+    "description": "Euphemism for program of systematic torture by U.S government's military",
+    "type": "ORG"
+  },
+  "ID1": {
+    "url": "https://www.wikidata.org/wiki/Q610056",
+    "span": "Ja",
+    "label": "\u091c",
+    "description": "eighth consonant in many Brahmi-derived abugidas",
+    "type": "MISC"
+  },
+  "ID2": {
+    "url": "https://www.wikidata.org/wiki/Q1228131",
+    "span": "ell\u00e9",
+    "label": "Ell\u00e9",
+    "description": "river in France",
+    "type": "PER"
+  },
+  "ID3": {
+    "url": "https://www.wikidata.org/wiki/Q2353856",
+    "span": "Bau",
+    "label": "Bau",
+    "description": "island in Fiji",
+    "type": "LOC"
+  },
+  "ID4": {
+    "url": "https://www.wikidata.org/wiki/Q1655788",
+    "span": "dre",
+    "label": "Drummond Island Airport",
+    "description": "airport in Michigan, United States of America",
+    "type": "PER"
+  },
+  "ID5": {
+    "url": "https://www.wikidata.org/wiki/Q945051",
+    "span": "Toussaint",
+    "label": "Pierre Toussaint",
+    "description": "holy hairdresser",
+    "type": "PER"
+  },
+  "ID6": {
+    "url": "https://www.wikidata.org/wiki/Q1058292",
+    "span": "francs",
+    "label": "Francs",
+    "description": "commune in Gironde, France",
+    "type": "MISC"
+  },
+  "ID7": {
+    "url": "https://www.wikidata.org/wiki/Q26898358",
+    "span": "Joanne",
+    "label": "Joanne",
+    "description": "2016 album by Lady Gaga",
+    "type": "PER"
+  },
+  "ID8": {
+    "url": "https://www.wikidata.org/wiki/Q3027560",
+    "span": "Dieu",
+    "label": "Dieu",
+    "description": "book by Victor Hugo",
+    "type": "MISC"
+  },
+  "ID9": {
+    "url": "https://www.wikidata.org/wiki/Q8073816",
+    "span": "zon",
+    "label": "Zon",
+    "description": "band",
+    "type": "ORG"
+  },
+  "ID10": {
+    "url": "https://www.wikidata.org/wiki/Q3027560",
+    "span": "Dieu",
+    "label": "Dieu",
+    "description": "book by Victor Hugo",
+    "type": "MISC"
+  },
+  "ID11": {
+    "url": "https://www.wikidata.org/wiki/Q2721227",
+    "span": "ona",
+    "label": "Selk'nam",
+    "description": "language",
+    "type": "MISC"
+  },
+  "ID12": {
+    "url": "https://www.wikidata.org/wiki/Q14378132",
+    "span": "done",
+    "label": "Done",
+    "description": "2013 single by The Band Perry",
+    "type": "PER"
+  },
+  "ID13": {
+    "url": "https://www.wikidata.org/wiki/Q40406186",
+    "span": "tez",
+    "label": "Google Tez",
+    "description": "Google pay Tez contact now",
+    "type": "ORG"
+  },
+  "ID14": {
+    "url": "https://www.wikidata.org/wiki/Q12003",
+    "span": "Cher",
+    "label": "Cher",
+    "description": "American singer/songwriter and actress",
+    "type": "LOC"
+  }
+}

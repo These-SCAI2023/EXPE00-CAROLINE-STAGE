@@ -1,0 +1,303 @@
+{
+  "ID0": {
+    "url": "https://www.wikidata.org/wiki/Q30603260",
+    "span": "Sud",
+    "label": "Sud",
+    "description": "",
+    "type": "LOC"
+  },
+  "ID1": {
+    "url": "https://www.wikidata.org/wiki/Q5114004",
+    "span": "cte",
+    "label": "chronic traumatic encephalopathy",
+    "description": "neurodegenerative disease caused by repeated head injuries",
+    "type": "MISC"
+  },
+  "ID2": {
+    "url": "https://www.wikidata.org/wiki/Q5114004",
+    "span": "cte",
+    "label": "chronic traumatic encephalopathy",
+    "description": "neurodegenerative disease caused by repeated head injuries",
+    "type": "MISC"
+  },
+  "ID3": {
+    "url": "https://www.wikidata.org/wiki/Q203978",
+    "span": "orune",
+    "label": "Orune",
+    "description": "Italian comune",
+    "type": "PER"
+  },
+  "ID4": {
+    "url": "https://www.wikidata.org/wiki/Q897180",
+    "span": "ete",
+    "label": "Ete",
+    "description": "village in Hungary",
+    "type": "ORG"
+  },
+  "ID5": {
+    "url": "https://www.wikidata.org/wiki/Q215408",
+    "span": "presence",
+    "label": "Presence",
+    "description": "1976 studio album by Led Zeppelin",
+    "type": "PER"
+  },
+  "ID6": {
+    "url": "https://www.wikidata.org/wiki/Q458",
+    "span": "Europe",
+    "label": "European Union",
+    "description": "economic and political union of states mostly located in Europe",
+    "type": "LOC"
+  },
+  "ID7": {
+    "url": "https://www.wikidata.org/wiki/Q3027560",
+    "span": "Dieu",
+    "label": "Dieu",
+    "description": "book by Victor Hugo",
+    "type": "MISC"
+  },
+  "ID8": {
+    "url": "https://www.wikidata.org/wiki/Q422745",
+    "span": "Americaine",
+    "label": "benzocaine",
+    "description": "chemical compound",
+    "type": "LOC"
+  },
+  "ID9": {
+    "url": "https://www.wikidata.org/wiki/Q2958359",
+    "span": "Charles",
+    "label": "Charles",
+    "description": "male given name",
+    "type": "PER"
+  },
+  "ID10": {
+    "url": "https://www.wikidata.org/wiki/Q50658583",
+    "span": "Quint",
+    "label": "Quint",
+    "description": "fire apparatus",
+    "type": "PER"
+  },
+  "ID11": {
+    "url": "https://www.wikidata.org/wiki/Q1069376",
+    "span": "Etat",
+    "label": "Chemins de fer de l'\u00c9tat",
+    "description": "state-owned pre-nationalisation railway in Western France (1878\u20131937)",
+    "type": "LOC"
+  },
+  "ID12": {
+    "url": "https://www.wikidata.org/wiki/Q46422",
+    "span": "Sonora",
+    "label": "Sonora",
+    "description": "one of the states of Mexico",
+    "type": "LOC"
+  },
+  "ID13": {
+    "url": "https://www.wikidata.org/wiki/Q778999",
+    "span": "lure",
+    "label": "lur",
+    "description": "wind instrument",
+    "type": "LOC"
+  },
+  "ID14": {
+    "url": "https://www.wikidata.org/wiki/Q883068",
+    "span": "eil",
+    "label": "Eil",
+    "description": "city quarter no. 705 of Cologne, Germany",
+    "type": "ORG"
+  },
+  "ID15": {
+    "url": "https://www.wikidata.org/wiki/Q8678",
+    "span": "Rio",
+    "label": "Rio de Janeiro",
+    "description": "city of the state of Rio de Janeiro, Brazil",
+    "type": "LOC"
+  },
+  "ID16": {
+    "url": "https://www.wikidata.org/wiki/Q1069376",
+    "span": "Etat",
+    "label": "Chemins de fer de l'\u00c9tat",
+    "description": "state-owned pre-nationalisation railway in Western France (1878\u20131937)",
+    "type": "LOC"
+  },
+  "ID17": {
+    "url": "https://www.wikidata.org/wiki/Q9956",
+    "span": "Sierra",
+    "label": "S",
+    "description": "letter of the Latin alphabet",
+    "type": "LOC"
+  },
+  "ID18": {
+    "url": "https://www.wikidata.org/wiki/Q9956",
+    "span": "Sierra",
+    "label": "S",
+    "description": "letter of the Latin alphabet",
+    "type": "LOC"
+  },
+  "ID19": {
+    "url": "https://www.wikidata.org/wiki/Q27959547",
+    "span": "Madre",
+    "label": "Madre",
+    "description": "2016 film by Sim\u00f3n Mesa Soto",
+    "type": "LOC"
+  },
+  "ID20": {
+    "url": "https://www.wikidata.org/wiki/Q1012665",
+    "span": "Durango",
+    "label": "Durango",
+    "description": "city in and county seat of La Plata County, Colorado, United States",
+    "type": "LOC"
+  },
+  "ID21": {
+    "url": "https://www.wikidata.org/wiki/Q130522",
+    "span": "gande",
+    "label": "Gande",
+    "description": "river in Germany",
+    "type": "PER"
+  },
+  "ID22": {
+    "url": "https://www.wikidata.org/wiki/Q1012665",
+    "span": "Durango",
+    "label": "Durango",
+    "description": "city in and county seat of La Plata County, Colorado, United States",
+    "type": "LOC"
+  },
+  "ID23": {
+    "url": "https://www.wikidata.org/wiki/Q429976",
+    "span": "regions",
+    "label": "Phytochorion",
+    "description": "geographic area with a relatively uniform composition of plant species",
+    "type": "LOC"
+  },
+  "ID24": {
+    "url": "https://www.wikidata.org/wiki/Q3657896",
+    "span": "Pacifique",
+    "label": "Pacifique",
+    "description": "2000 album by Deep Forest",
+    "type": "LOC"
+  },
+  "ID25": {
+    "url": "https://www.wikidata.org/wiki/Q46422",
+    "span": "Sonora",
+    "label": "Sonora",
+    "description": "one of the states of Mexico",
+    "type": "LOC"
+  },
+  "ID26": {
+    "url": "https://www.wikidata.org/wiki/Q8678",
+    "span": "Rio",
+    "label": "Rio de Janeiro",
+    "description": "city of the state of Rio de Janeiro, Brazil",
+    "type": "LOC"
+  },
+  "ID27": {
+    "url": "https://www.wikidata.org/wiki/Q2166028",
+    "span": "Sierra Madre",
+    "label": "Sierra Madre",
+    "description": "mountain range in the Philippines",
+    "type": "LOC"
+  },
+  "ID28": {
+    "url": "https://www.wikidata.org/wiki/Q117133",
+    "span": "Comanches",
+    "label": "Comanche",
+    "description": "Plains Indian tribe whose historic territory consisted of eastern New Mexico, southeastern Colorado, southwestern Kansas, western Oklahoma, and northwest Texas",
+    "type": "PER"
+  },
+  "ID29": {
+    "url": "https://www.wikidata.org/wiki/Q102090",
+    "span": "Apaches",
+    "label": "Apache",
+    "description": "several culturally related groups of indigenous peoples of the United States",
+    "type": "MISC"
+  },
+  "ID30": {
+    "url": "https://www.wikidata.org/wiki/Q46422",
+    "span": "Sonora",
+    "label": "Sonora",
+    "description": "one of the states of Mexico",
+    "type": "LOC"
+  },
+  "ID31": {
+    "url": "https://www.wikidata.org/wiki/Q985521",
+    "span": "Guaymas",
+    "label": "Guaymas",
+    "description": "city in Sonora, Mexico",
+    "type": "LOC"
+  },
+  "ID32": {
+    "url": "https://www.wikidata.org/wiki/Q189138",
+    "span": "Hermosillo",
+    "label": "Hermosillo",
+    "description": "city in Mexico, Sonora state capital",
+    "type": "PER"
+  },
+  "ID33": {
+    "url": "https://www.wikidata.org/wiki/Q1849047",
+    "span": "Arispe",
+    "label": "Arispe",
+    "description": "human settlement in Union County, Iowa, United States of America",
+    "type": "PER"
+  },
+  "ID34": {
+    "url": "https://www.wikidata.org/wiki/Q189138",
+    "span": "Hermosillo",
+    "label": "Hermosillo",
+    "description": "city in Mexico, Sonora state capital",
+    "type": "PER"
+  },
+  "ID35": {
+    "url": "https://www.wikidata.org/wiki/Q189138",
+    "span": "Pitic",
+    "label": "Hermosillo",
+    "description": "city in Mexico, Sonora state capital",
+    "type": "LOC"
+  },
+  "ID36": {
+    "url": "https://www.wikidata.org/wiki/Q474038",
+    "span": "Boulbon",
+    "label": "Boulbon",
+    "description": "commune in Bouches-du-Rh\u00f4ne, France",
+    "type": "MISC"
+  },
+  "ID37": {
+    "url": "https://www.wikidata.org/wiki/Q3646180",
+    "span": "bre",
+    "label": "Br\u00e8",
+    "description": "mountain village within the boundaries of the city of Lugano in the Swiss canton of Ticino",
+    "type": "MISC"
+  },
+  "ID38": {
+    "url": "https://www.wikidata.org/wiki/Q3657896",
+    "span": "Pacifique",
+    "label": "Pacifique",
+    "description": "2000 album by Deep Forest",
+    "type": "LOC"
+  },
+  "ID39": {
+    "url": "https://www.wikidata.org/wiki/Q642909",
+    "span": "batie",
+    "label": "Bati\u00e9",
+    "description": "commune of Cameroon",
+    "type": "LOC"
+  },
+  "ID40": {
+    "url": "https://www.wikidata.org/wiki/Q914086",
+    "span": "Cerro",
+    "label": "Cerro Porte\u00f1o",
+    "description": "Paraguayan football club",
+    "type": "LOC"
+  },
+  "ID41": {
+    "url": "https://www.wikidata.org/wiki/Q1030194",
+    "span": "campana",
+    "label": "Campana",
+    "description": "city in the province of Buenos Aires in Argentina",
+    "type": "LOC"
+  },
+  "ID42": {
+    "url": "https://www.wikidata.org/wiki/Q1486163",
+    "span": "gne",
+    "label": "GNE",
+    "description": "former free content encyclopedia",
+    "type": "ORG"
+  }
+}

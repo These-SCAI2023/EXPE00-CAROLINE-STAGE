@@ -1,0 +1,135 @@
+{
+  "ID0": {
+    "url": "https://www.wikidata.org/wiki/Q3462423",
+    "span": "Saint-Honor\u00e9",
+    "label": "Saint-Honor\u00e9",
+    "description": "town in Quebec, Canada",
+    "type": "LOC"
+  },
+  "ID1": {
+    "url": "https://www.wikidata.org/wiki/Q141371",
+    "span": "Saint-Gabriel",
+    "label": "Saint-Gabriel",
+    "description": "town in Quebec, Canada",
+    "type": "LOC"
+  },
+  "ID2": {
+    "url": "https://www.wikidata.org/wiki/Q1520324",
+    "span": "serge",
+    "label": "serge",
+    "description": "2/2 twill-woven fabric of silk, worsted, or other fibres",
+    "type": "MISC"
+  },
+  "ID3": {
+    "url": "https://www.wikidata.org/wiki/Q21494328",
+    "span": "Louison",
+    "label": "Louison",
+    "description": "family name",
+    "type": "PER"
+  },
+  "ID4": {
+    "url": "https://www.wikidata.org/wiki/Q90",
+    "span": "Paris",
+    "label": "Paris",
+    "description": "capital and largest city of France",
+    "type": "LOC"
+  },
+  "ID5": {
+    "url": "https://www.wikidata.org/wiki/Q68595",
+    "span": "Bussy",
+    "label": "Bussy",
+    "description": "municipality in the canton of Fribourg, Switzerland",
+    "type": "LOC"
+  },
+  "ID6": {
+    "url": "https://www.wikidata.org/wiki/Q7921264",
+    "span": "verger",
+    "label": "Verger",
+    "description": "",
+    "type": "LOC"
+  },
+  "ID7": {
+    "url": "https://www.wikidata.org/wiki/Q68595",
+    "span": "Bussy",
+    "label": "Bussy",
+    "description": "municipality in the canton of Fribourg, Switzerland",
+    "type": "LOC"
+  },
+  "ID8": {
+    "url": "https://www.wikidata.org/wiki/Q1005702",
+    "span": "Henriette",
+    "label": "Henriette",
+    "description": "city in Minnesota, United States",
+    "type": "PER"
+  },
+  "ID9": {
+    "url": "https://www.wikidata.org/wiki/Q1005702",
+    "span": "Henriette",
+    "label": "Henriette",
+    "description": "city in Minnesota, United States",
+    "type": "PER"
+  },
+  "ID10": {
+    "url": "https://www.wikidata.org/wiki/Q1005702",
+    "span": "Henriette",
+    "label": "Henriette",
+    "description": "city in Minnesota, United States",
+    "type": "PER"
+  },
+  "ID11": {
+    "url": "https://www.wikidata.org/wiki/Q2971964",
+    "span": "Ch\u00e2telaine",
+    "label": "ch\u00e2telaine",
+    "description": "Canadian French-language magazine",
+    "type": "LOC"
+  },
+  "ID12": {
+    "url": "https://www.wikidata.org/wiki/Q2564235",
+    "span": "Pinon",
+    "label": "Pinon",
+    "description": "Census-designated place in Navajo County, Arizona",
+    "type": "PER"
+  },
+  "ID13": {
+    "url": "https://www.wikidata.org/wiki/Q90",
+    "span": "Paris",
+    "label": "Paris",
+    "description": "capital and largest city of France",
+    "type": "LOC"
+  },
+  "ID14": {
+    "url": "https://www.wikidata.org/wiki/Q13950",
+    "span": "Picardie",
+    "label": "Picardy",
+    "description": "former administrative region of France",
+    "type": "LOC"
+  },
+  "ID15": {
+    "url": "https://www.wikidata.org/wiki/Q68595",
+    "span": "Bussy",
+    "label": "Bussy",
+    "description": "municipality in the canton of Fribourg, Switzerland",
+    "type": "LOC"
+  },
+  "ID16": {
+    "url": "https://www.wikidata.org/wiki/Q379174",
+    "span": "Roucy",
+    "label": "Roucy",
+    "description": "commune in Aisne, France",
+    "type": "LOC"
+  },
+  "ID17": {
+    "url": "https://www.wikidata.org/wiki/Q90",
+    "span": "Paris",
+    "label": "Paris",
+    "description": "capital and largest city of France",
+    "type": "LOC"
+  },
+  "ID18": {
+    "url": "https://www.wikidata.org/wiki/Q1005702",
+    "span": "Henriette",
+    "label": "Henriette",
+    "description": "city in Minnesota, United States",
+    "type": "PER"
+  }
+}

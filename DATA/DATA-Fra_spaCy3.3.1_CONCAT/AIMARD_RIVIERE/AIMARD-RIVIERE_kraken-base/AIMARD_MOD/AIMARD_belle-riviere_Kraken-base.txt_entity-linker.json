@@ -1,0 +1,233 @@
+{
+  "ID0": {
+    "url": "https://www.wikidata.org/wiki/Q683502",
+    "span": "LB",
+    "label": "Little Busters!",
+    "description": "2007 video game",
+    "type": "ORG"
+  },
+  "ID1": {
+    "url": "https://www.wikidata.org/wiki/Q2897866",
+    "span": "Louis",
+    "label": "Louis",
+    "description": "unisex given name",
+    "type": "PER"
+  },
+  "ID2": {
+    "url": "https://www.wikidata.org/wiki/Q7738",
+    "span": "Louis XV",
+    "label": "Louis XV of France",
+    "description": "Bourbon monarch who ruled as King of France and of Navarre 1715-1774",
+    "type": "PER"
+  },
+  "ID3": {
+    "url": "https://www.wikidata.org/wiki/Q12661",
+    "span": "Nord",
+    "label": "Nord",
+    "description": "French department",
+    "type": "LOC"
+  },
+  "ID4": {
+    "url": "https://www.wikidata.org/wiki/Q142",
+    "span": "France",
+    "label": "France",
+    "description": "republic with mainland in Europe and numerous oversea territories",
+    "type": "LOC"
+  },
+  "ID5": {
+    "url": "https://www.wikidata.org/wiki/Q16",
+    "span": "Canada",
+    "label": "Canada",
+    "description": "country in North America",
+    "type": "LOC"
+  },
+  "ID6": {
+    "url": "https://www.wikidata.org/wiki/Q897180",
+    "span": "ete",
+    "label": "Ete",
+    "description": "village in Hungary",
+    "type": "ORG"
+  },
+  "ID7": {
+    "url": "https://www.wikidata.org/wiki/Q16",
+    "span": "Canada",
+    "label": "Canada",
+    "description": "country in North America",
+    "type": "LOC"
+  },
+  "ID8": {
+    "url": "https://www.wikidata.org/wiki/Q6806976",
+    "span": "mediocre",
+    "label": "Mediocre",
+    "description": "album by Ximena Sari\u00f1ana",
+    "type": "PER"
+  },
+  "ID9": {
+    "url": "https://www.wikidata.org/wiki/Q33698",
+    "span": "LIv",
+    "label": "Livonian",
+    "description": "language",
+    "type": "LOC"
+  },
+  "ID10": {
+    "url": "https://www.wikidata.org/wiki/Q1103",
+    "span": "I",
+    "label": "iodine",
+    "description": "chemical element with the atomic number of 53",
+    "type": "LOC"
+  },
+  "ID11": {
+    "url": "https://www.wikidata.org/wiki/Q1103",
+    "span": "I",
+    "label": "iodine",
+    "description": "chemical element with the atomic number of 53",
+    "type": "LOC"
+  },
+  "ID12": {
+    "url": "https://www.wikidata.org/wiki/Q1103",
+    "span": "I",
+    "label": "iodine",
+    "description": "chemical element with the atomic number of 53",
+    "type": "LOC"
+  },
+  "ID13": {
+    "url": "https://www.wikidata.org/wiki/Q1103",
+    "span": "I",
+    "label": "iodine",
+    "description": "chemical element with the atomic number of 53",
+    "type": "LOC"
+  },
+  "ID14": {
+    "url": "https://www.wikidata.org/wiki/Q1103",
+    "span": "I",
+    "label": "iodine",
+    "description": "chemical element with the atomic number of 53",
+    "type": "LOC"
+  },
+  "ID15": {
+    "url": "https://www.wikidata.org/wiki/Q1103",
+    "span": "I",
+    "label": "iodine",
+    "description": "chemical element with the atomic number of 53",
+    "type": "LOC"
+  },
+  "ID16": {
+    "url": "https://www.wikidata.org/wiki/Q1103",
+    "span": "I",
+    "label": "iodine",
+    "description": "chemical element with the atomic number of 53",
+    "type": "LOC"
+  },
+  "ID17": {
+    "url": "https://www.wikidata.org/wiki/Q142",
+    "span": "France",
+    "label": "France",
+    "description": "republic with mainland in Europe and numerous oversea territories",
+    "type": "LOC"
+  },
+  "ID18": {
+    "url": "https://www.wikidata.org/wiki/Q1328822",
+    "span": "Hudson",
+    "label": "Hudson",
+    "description": "family of transport and patrol bomber aircraft",
+    "type": "LOC"
+  },
+  "ID19": {
+    "url": "https://www.wikidata.org/wiki/Q2186892",
+    "span": "Orleans",
+    "label": "Orleans",
+    "description": "American rock band",
+    "type": "LOC"
+  },
+  "ID20": {
+    "url": "https://www.wikidata.org/wiki/Q629",
+    "span": "O",
+    "label": "oxygen",
+    "description": "element with the atomic number of 8",
+    "type": "LOC"
+  },
+  "ID21": {
+    "url": "https://www.wikidata.org/wiki/Q16",
+    "span": "Canada",
+    "label": "Canada",
+    "description": "country in North America",
+    "type": "LOC"
+  },
+  "ID22": {
+    "url": "https://www.wikidata.org/wiki/Q4256652",
+    "span": "Ferney",
+    "label": "Ferney",
+    "description": "unincorporated community in South Dakota",
+    "type": "LOC"
+  },
+  "ID23": {
+    "url": "https://www.wikidata.org/wiki/Q7451569",
+    "span": "sung",
+    "label": "Seong",
+    "description": "Korean surname \uc131, and given name syllable",
+    "type": "PER"
+  },
+  "ID24": {
+    "url": "https://www.wikidata.org/wiki/Q943826",
+    "span": "Francais",
+    "label": "Fran\u00e7ois-Louis Fran\u00e7ais",
+    "description": "French painter",
+    "type": "LOC"
+  },
+  "ID25": {
+    "url": "https://www.wikidata.org/wiki/Q690388",
+    "span": "mneme",
+    "label": "Mneme",
+    "description": "one of the three original Boeotian Muses in Greek mythology",
+    "type": "LOC"
+  },
+  "ID26": {
+    "url": "https://www.wikidata.org/wiki/Q1397",
+    "span": "Ohio",
+    "label": "Ohio",
+    "description": "state of the United States of America",
+    "type": "LOC"
+  },
+  "ID27": {
+    "url": "https://www.wikidata.org/wiki/Q804",
+    "span": "pa",
+    "label": "Panama",
+    "description": "republic in Central America",
+    "type": "ORG"
+  },
+  "ID28": {
+    "url": "https://www.wikidata.org/wiki/Q530278",
+    "span": "iers",
+    "label": "International Earth Rotation and Reference Systems Service",
+    "description": "the body responsible for maintaining global time and reference frame standards",
+    "type": "ORG"
+  },
+  "ID29": {
+    "url": "https://www.wikidata.org/wiki/Q1103",
+    "span": "I",
+    "label": "iodine",
+    "description": "chemical element with the atomic number of 53",
+    "type": "LOC"
+  },
+  "ID30": {
+    "url": "https://www.wikidata.org/wiki/Q1103",
+    "span": "I",
+    "label": "iodine",
+    "description": "chemical element with the atomic number of 53",
+    "type": "LOC"
+  },
+  "ID31": {
+    "url": "https://www.wikidata.org/wiki/Q5559085",
+    "span": "gibeciere",
+    "label": "Gibeciere",
+    "description": "",
+    "type": "PER"
+  },
+  "ID32": {
+    "url": "https://www.wikidata.org/wiki/Q215408",
+    "span": "presence",
+    "label": "Presence",
+    "description": "1976 studio album by Led Zeppelin",
+    "type": "PER"
+  }
+}

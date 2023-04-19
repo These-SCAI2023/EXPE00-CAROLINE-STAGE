@@ -1,0 +1,268 @@
+{
+  "ID0": {
+    "url": "https://www.wikidata.org/wiki/Q3450154",
+    "span": "mbre",
+    "label": "Mbre",
+    "description": "language",
+    "type": "PER"
+  },
+  "ID1": {
+    "url": "https://www.wikidata.org/wiki/Q12985221",
+    "span": "nee",
+    "label": "Nee",
+    "description": "1965 film by T. R. Ramanna",
+    "type": "PER"
+  },
+  "ID2": {
+    "url": "https://www.wikidata.org/wiki/Q6332812",
+    "span": "Klle",
+    "label": "KLLE",
+    "description": "",
+    "type": "LOC"
+  },
+  "ID3": {
+    "url": "https://www.wikidata.org/wiki/Q1093263",
+    "span": "lanne",
+    "label": "Lanne",
+    "description": "commune in Hautes-Pyr\u00e9n\u00e9es, France",
+    "type": "LOC"
+  },
+  "ID4": {
+    "url": "https://www.wikidata.org/wiki/Q3450154",
+    "span": "mbre",
+    "label": "Mbre",
+    "description": "language",
+    "type": "PER"
+  },
+  "ID5": {
+    "url": "https://www.wikidata.org/wiki/Q586615",
+    "span": "mre",
+    "label": "Meal, Ready-to-Eat",
+    "description": "meal supplied by the US military",
+    "type": "PER"
+  },
+  "ID6": {
+    "url": "https://www.wikidata.org/wiki/Q16256572",
+    "span": "seo",
+    "label": "Seo",
+    "description": "Korean family name (\uc11c)",
+    "type": "ORG"
+  },
+  "ID7": {
+    "url": "https://www.wikidata.org/wiki/Q914307",
+    "span": "LL",
+    "label": "Ll",
+    "description": "digraph",
+    "type": "MISC"
+  },
+  "ID8": {
+    "url": "https://www.wikidata.org/wiki/Q1103",
+    "span": "I",
+    "label": "iodine",
+    "description": "chemical element with the atomic number of 53",
+    "type": "LOC"
+  },
+  "ID9": {
+    "url": "https://www.wikidata.org/wiki/Q1103",
+    "span": "I",
+    "label": "iodine",
+    "description": "chemical element with the atomic number of 53",
+    "type": "LOC"
+  },
+  "ID10": {
+    "url": "https://www.wikidata.org/wiki/Q6059108",
+    "span": "IIF",
+    "label": "Intuit Interchange Format",
+    "description": "file format",
+    "type": "MISC"
+  },
+  "ID11": {
+    "url": "https://www.wikidata.org/wiki/Q1103",
+    "span": "I",
+    "label": "iodine",
+    "description": "chemical element with the atomic number of 53",
+    "type": "LOC"
+  },
+  "ID12": {
+    "url": "https://www.wikidata.org/wiki/Q2091584",
+    "span": "E",
+    "label": "Young's modulus",
+    "description": "mechanical property of linear elastic solid materials",
+    "type": "LOC"
+  },
+  "ID13": {
+    "url": "https://www.wikidata.org/wiki/Q2091584",
+    "span": "E",
+    "label": "Young's modulus",
+    "description": "mechanical property of linear elastic solid materials",
+    "type": "LOC"
+  },
+  "ID14": {
+    "url": "https://www.wikidata.org/wiki/Q1655788",
+    "span": "dre",
+    "label": "Drummond Island Airport",
+    "description": "airport in Michigan, United States of America",
+    "type": "PER"
+  },
+  "ID15": {
+    "url": "https://www.wikidata.org/wiki/Q945051",
+    "span": "Toussaint",
+    "label": "Pierre Toussaint",
+    "description": "holy hairdresser",
+    "type": "PER"
+  },
+  "ID16": {
+    "url": "https://www.wikidata.org/wiki/Q3450154",
+    "span": "mbre",
+    "label": "Mbre",
+    "description": "language",
+    "type": "PER"
+  },
+  "ID17": {
+    "url": "https://www.wikidata.org/wiki/Q7259047",
+    "span": "puin",
+    "label": "Puin",
+    "description": "",
+    "type": "PER"
+  },
+  "ID18": {
+    "url": "https://www.wikidata.org/wiki/Q586615",
+    "span": "mre",
+    "label": "Meal, Ready-to-Eat",
+    "description": "meal supplied by the US military",
+    "type": "PER"
+  },
+  "ID19": {
+    "url": "https://www.wikidata.org/wiki/Q632053",
+    "span": "llo",
+    "label": "Llo",
+    "description": "commune in Pyr\u00e9n\u00e9es-Orientales, France",
+    "type": "PER"
+  },
+  "ID20": {
+    "url": "https://www.wikidata.org/wiki/Q3385935",
+    "span": "Lenfant",
+    "label": "Pierre L'Enfant",
+    "description": "French painter",
+    "type": "PER"
+  },
+  "ID21": {
+    "url": "https://www.wikidata.org/wiki/Q887987",
+    "span": "sihon",
+    "label": "Sihon",
+    "description": "biblical character",
+    "type": "PER"
+  },
+  "ID22": {
+    "url": "https://www.wikidata.org/wiki/Q3450154",
+    "span": "mbre",
+    "label": "Mbre",
+    "description": "language",
+    "type": "PER"
+  },
+  "ID23": {
+    "url": "https://www.wikidata.org/wiki/Q902860",
+    "span": "Ohl",
+    "label": "Ontario Hockey League",
+    "description": "sports league",
+    "type": "PER"
+  },
+  "ID24": {
+    "url": "https://www.wikidata.org/wiki/Q3027560",
+    "span": "Dieu",
+    "label": "Dieu",
+    "description": "book by Victor Hugo",
+    "type": "MISC"
+  },
+  "ID25": {
+    "url": "https://www.wikidata.org/wiki/Q786",
+    "span": "DR",
+    "label": "Dominican Republic",
+    "description": "country in the Caribbean",
+    "type": "ORG"
+  },
+  "ID26": {
+    "url": "https://www.wikidata.org/wiki/Q2091584",
+    "span": "E",
+    "label": "Young's modulus",
+    "description": "mechanical property of linear elastic solid materials",
+    "type": "LOC"
+  },
+  "ID27": {
+    "url": "https://www.wikidata.org/wiki/Q3890363",
+    "span": "ZAY",
+    "label": "Zay people",
+    "description": "Ethiopian people",
+    "type": "MISC"
+  },
+  "ID28": {
+    "url": "https://www.wikidata.org/wiki/Q27",
+    "span": "IE",
+    "label": "Ireland",
+    "description": "republic covering major parts of the island of Ireland",
+    "type": "MISC"
+  },
+  "ID29": {
+    "url": "https://www.wikidata.org/wiki/Q2091584",
+    "span": "E",
+    "label": "Young's modulus",
+    "description": "mechanical property of linear elastic solid materials",
+    "type": "LOC"
+  },
+  "ID30": {
+    "url": "https://www.wikidata.org/wiki/Q2091584",
+    "span": "E",
+    "label": "Young's modulus",
+    "description": "mechanical property of linear elastic solid materials",
+    "type": "LOC"
+  },
+  "ID31": {
+    "url": "https://www.wikidata.org/wiki/Q1295694",
+    "span": "EER",
+    "label": "Estonian Greens",
+    "description": "political party",
+    "type": "ORG"
+  },
+  "ID32": {
+    "url": "https://www.wikidata.org/wiki/Q1544835",
+    "span": "PARTIR",
+    "label": "Partir, revenir",
+    "description": "1985 film by Claude Lelouch",
+    "type": "MISC"
+  },
+  "ID33": {
+    "url": "https://www.wikidata.org/wiki/Q16882089",
+    "span": "rin",
+    "label": "Rin",
+    "description": "unisex given name",
+    "type": "MISC"
+  },
+  "ID34": {
+    "url": "https://www.wikidata.org/wiki/Q1159203",
+    "span": "dana",
+    "label": "d\u0101na",
+    "description": "concept of charity in Buddhism, Hinduism and Jainism",
+    "type": "MISC"
+  },
+  "ID35": {
+    "url": "https://www.wikidata.org/wiki/Q3755540",
+    "span": "g.",
+    "label": "G.",
+    "description": "book by John Berger",
+    "type": "LOC"
+  },
+  "ID36": {
+    "url": "https://www.wikidata.org/wiki/Q12003",
+    "span": "Cher",
+    "label": "Cher",
+    "description": "American singer/songwriter and actress",
+    "type": "LOC"
+  },
+  "ID37": {
+    "url": "https://www.wikidata.org/wiki/Q6041095",
+    "span": "iei",
+    "label": "Institution of Engineers of Ireland",
+    "description": "organization",
+    "type": "MISC"
+  }
+}

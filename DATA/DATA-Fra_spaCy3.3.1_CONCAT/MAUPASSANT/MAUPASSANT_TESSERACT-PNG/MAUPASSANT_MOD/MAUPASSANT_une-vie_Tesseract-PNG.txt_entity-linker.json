@@ -1,0 +1,177 @@
+{
+  "ID0": {
+    "url": "https://www.wikidata.org/wiki/Q3444710",
+    "span": "carton",
+    "label": "carton",
+    "description": "box or container usually made of paperboard and sometimes of corrugated fiberboard",
+    "type": "MISC"
+  },
+  "ID1": {
+    "url": "https://www.wikidata.org/wiki/Q1187079",
+    "span": "Jeannette",
+    "label": "Jeannette",
+    "description": "city of Pennsylvania",
+    "type": "PER"
+  },
+  "ID2": {
+    "url": "https://www.wikidata.org/wiki/Q63821555",
+    "span": "Jeanne",
+    "label": "Joan of Arc",
+    "description": "2019 film directed by Bruno Dumont",
+    "type": "PER"
+  },
+  "ID3": {
+    "url": "https://www.wikidata.org/wiki/Q33923",
+    "span": "Simon",
+    "label": "Peter",
+    "description": "apostle and first pope",
+    "type": "PER"
+  },
+  "ID4": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "PER"
+  },
+  "ID5": {
+    "url": "https://www.wikidata.org/wiki/Q1228422",
+    "span": "Disciple",
+    "label": "Disciple",
+    "description": "Christian metal band from the USA",
+    "type": "PER"
+  },
+  "ID6": {
+    "url": "https://www.wikidata.org/wiki/Q6527",
+    "span": "Rousseau",
+    "label": "Jean-Jacques Rousseau",
+    "description": "Genevan philosopher, writer, and composer",
+    "type": "PER"
+  },
+  "ID7": {
+    "url": "https://www.wikidata.org/wiki/Q932",
+    "span": "Tl",
+    "label": "thallium",
+    "description": "chemical element with the atomic number of 81",
+    "type": "LOC"
+  },
+  "ID8": {
+    "url": "https://www.wikidata.org/wiki/Q2653458",
+    "span": "prance",
+    "label": "Ghillean Prance",
+    "description": "British botanist",
+    "type": "PER"
+  },
+  "ID9": {
+    "url": "https://www.wikidata.org/wiki/Q157",
+    "span": "Hollande",
+    "label": "Fran\u00e7ois Hollande",
+    "description": "French official and statesman",
+    "type": "PER"
+  },
+  "ID10": {
+    "url": "https://www.wikidata.org/wiki/Q48979827",
+    "span": "narine",
+    "label": "Narine",
+    "description": "",
+    "type": "PER"
+  },
+  "ID11": {
+    "url": "https://www.wikidata.org/wiki/Q932",
+    "span": "Tl",
+    "label": "thallium",
+    "description": "chemical element with the atomic number of 81",
+    "type": "LOC"
+  },
+  "ID12": {
+    "url": "https://www.wikidata.org/wiki/Q610056",
+    "span": "Ja",
+    "label": "\u091c",
+    "description": "eighth consonant in many Brahmi-derived abugidas",
+    "type": "MISC"
+  },
+  "ID13": {
+    "url": "https://www.wikidata.org/wiki/Q28452151",
+    "span": "STEED",
+    "label": "Steed",
+    "description": "",
+    "type": "MISC"
+  },
+  "ID14": {
+    "url": "https://www.wikidata.org/wiki/Q214377",
+    "span": "ell",
+    "label": "ell",
+    "description": "unit of length",
+    "type": "ORG"
+  },
+  "ID15": {
+    "url": "https://www.wikidata.org/wiki/Q1048704",
+    "span": "CEB",
+    "label": "Mactan\u2013Cebu International Airport",
+    "description": "international airport",
+    "type": "ORG"
+  },
+  "ID16": {
+    "url": "https://www.wikidata.org/wiki/Q123759",
+    "span": "OAS",
+    "label": "Organization of American States",
+    "description": "international organization",
+    "type": "ORG"
+  },
+  "ID17": {
+    "url": "https://www.wikidata.org/wiki/Q878",
+    "span": "ae",
+    "label": "United Arab Emirates",
+    "description": "monarchy in Southwest Asia",
+    "type": "MISC"
+  },
+  "ID18": {
+    "url": "https://www.wikidata.org/wiki/Q2413836",
+    "span": "Gar",
+    "label": "Gar",
+    "description": "",
+    "type": "PER"
+  },
+  "ID19": {
+    "url": "https://www.wikidata.org/wiki/Q3566217",
+    "span": "ier",
+    "label": "Natchitoches Regional Airport",
+    "description": "airport in Louisiana, United States of America",
+    "type": "MISC"
+  },
+  "ID20": {
+    "url": "https://www.wikidata.org/wiki/Q30974",
+    "span": "Rouen",
+    "label": "Rouen",
+    "description": "commune in Seine-Maritime, France",
+    "type": "LOC"
+  },
+  "ID21": {
+    "url": "https://www.wikidata.org/wiki/Q90",
+    "span": "Paris",
+    "label": "Paris",
+    "description": "capital and largest city of France",
+    "type": "LOC"
+  },
+  "ID22": {
+    "url": "https://www.wikidata.org/wiki/Q817173",
+    "span": "Yport",
+    "label": "Yport",
+    "description": "commune in Seine-Maritime, France",
+    "type": "LOC"
+  },
+  "ID23": {
+    "url": "https://www.wikidata.org/wiki/Q11573",
+    "span": "metre",
+    "label": "metre",
+    "description": "SI unit of length",
+    "type": "LOC"
+  },
+  "ID24": {
+    "url": "https://www.wikidata.org/wiki/Q610056",
+    "span": "Ja",
+    "label": "\u091c",
+    "description": "eighth consonant in many Brahmi-derived abugidas",
+    "type": "MISC"
+  }
+}

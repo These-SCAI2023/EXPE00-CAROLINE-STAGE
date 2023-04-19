@@ -1,0 +1,142 @@
+{
+  "ID0": {
+    "url": "https://www.wikidata.org/wiki/Q27",
+    "span": "IE",
+    "label": "Ireland",
+    "description": "republic covering major parts of the island of Ireland",
+    "type": "MISC"
+  },
+  "ID1": {
+    "url": "https://www.wikidata.org/wiki/Q3444710",
+    "span": "carton",
+    "label": "carton",
+    "description": "box or container usually made of paperboard and sometimes of corrugated fiberboard",
+    "type": "MISC"
+  },
+  "ID2": {
+    "url": "https://www.wikidata.org/wiki/Q4904749",
+    "span": "biffa",
+    "label": "Biffa",
+    "description": "waste management company headquartered in High Wycombe, United Kingdom",
+    "type": "ORG"
+  },
+  "ID3": {
+    "url": "https://www.wikidata.org/wiki/Q63821555",
+    "span": "Jeanne",
+    "label": "Joan of Arc",
+    "description": "2019 film directed by Bruno Dumont",
+    "type": "PER"
+  },
+  "ID4": {
+    "url": "https://www.wikidata.org/wiki/Q33923",
+    "span": "Simon",
+    "label": "Peter",
+    "description": "apostle and first pope",
+    "type": "PER"
+  },
+  "ID5": {
+    "url": "https://www.wikidata.org/wiki/Q1228422",
+    "span": "Disciple",
+    "label": "Disciple",
+    "description": "Christian metal band from the USA",
+    "type": "PER"
+  },
+  "ID6": {
+    "url": "https://www.wikidata.org/wiki/Q6527",
+    "span": "Rousseau",
+    "label": "Jean-Jacques Rousseau",
+    "description": "Genevan philosopher, writer, and composer",
+    "type": "PER"
+  },
+  "ID7": {
+    "url": "https://www.wikidata.org/wiki/Q9440",
+    "span": "Veronese",
+    "label": "Paolo Veronese",
+    "description": "Italian painter of the Renaissance",
+    "type": "LOC"
+  },
+  "ID8": {
+    "url": "https://www.wikidata.org/wiki/Q1098",
+    "span": "U",
+    "label": "uranium",
+    "description": "radioactive, metallic element with the atomic number 92",
+    "type": "MISC"
+  },
+  "ID9": {
+    "url": "https://www.wikidata.org/wiki/Q48979827",
+    "span": "narine",
+    "label": "Narine",
+    "description": "",
+    "type": "PER"
+  },
+  "ID10": {
+    "url": "https://www.wikidata.org/wiki/Q586615",
+    "span": "mre",
+    "label": "Meal, Ready-to-Eat",
+    "description": "meal supplied by the US military",
+    "type": "PER"
+  },
+  "ID11": {
+    "url": "https://www.wikidata.org/wiki/Q57699905",
+    "span": "entree",
+    "label": "access",
+    "description": "right, permission, or ability to approach, enter, or interact with something",
+    "type": "LOC"
+  },
+  "ID12": {
+    "url": "https://www.wikidata.org/wiki/Q30974",
+    "span": "Rouen",
+    "label": "Rouen",
+    "description": "commune in Seine-Maritime, France",
+    "type": "LOC"
+  },
+  "ID13": {
+    "url": "https://www.wikidata.org/wiki/Q90",
+    "span": "Paris",
+    "label": "Paris",
+    "description": "capital and largest city of France",
+    "type": "LOC"
+  },
+  "ID14": {
+    "url": "https://www.wikidata.org/wiki/Q897180",
+    "span": "ete",
+    "label": "Ete",
+    "description": "village in Hungary",
+    "type": "ORG"
+  },
+  "ID15": {
+    "url": "https://www.wikidata.org/wiki/Q817173",
+    "span": "Yport",
+    "label": "Yport",
+    "description": "commune in Seine-Maritime, France",
+    "type": "LOC"
+  },
+  "ID16": {
+    "url": "https://www.wikidata.org/wiki/Q1184898",
+    "span": "laporte",
+    "label": "Laporte",
+    "description": "borough in central Sullivan County, Pennsylvania",
+    "type": "PER"
+  },
+  "ID17": {
+    "url": "https://www.wikidata.org/wiki/Q63821555",
+    "span": "Jeanne",
+    "label": "Joan of Arc",
+    "description": "2019 film directed by Bruno Dumont",
+    "type": "PER"
+  },
+  "ID18": {
+    "url": "https://www.wikidata.org/wiki/Q3213381",
+    "span": "Normande",
+    "label": "Normande",
+    "description": "1975 film by Gilles Carle",
+    "type": "LOC"
+  },
+  "ID19": {
+    "url": "https://www.wikidata.org/wiki/Q674325",
+    "span": "Caux",
+    "label": "Caux",
+    "description": "village in Switzerland",
+    "type": "LOC"
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "ID0": {
+    "url": "https://www.wikidata.org/wiki/Q3461889",
+    "span": "Saint-Bernard",
+    "label": "Saint-Bernard",
+    "description": "municipality in Quebec, Canada",
+    "type": "LOC"
+  },
+  "ID1": {
+    "url": "https://www.wikidata.org/wiki/Q273779",
+    "span": "Saint-Louis",
+    "label": "Saint-Louis",
+    "description": "city and regional capital in Senegal",
+    "type": "LOC"
+  },
+  "ID2": {
+    "url": "https://www.wikidata.org/wiki/Q345",
+    "span": "Notre-Dame",
+    "label": "Virgin Mary",
+    "description": "religious figure and mother of Jesus of Nazareth",
+    "type": "LOC"
+  },
+  "ID3": {
+    "url": "https://www.wikidata.org/wiki/Q90",
+    "span": "Paris",
+    "label": "Paris",
+    "description": "capital and largest city of France",
+    "type": "LOC"
+  },
+  "ID4": {
+    "url": "https://www.wikidata.org/wiki/Q203828",
+    "span": "Moreau",
+    "label": "Gustave Moreau",
+    "description": "French painter",
+    "type": "PER"
+  },
+  "ID5": {
+    "url": "https://www.wikidata.org/wiki/Q476895",
+    "span": "Nogent-sur-Seine",
+    "label": "Nogent-sur-Seine",
+    "description": "commune in Aube, France",
+    "type": "LOC"
+  },
+  "ID6": {
+    "url": "https://www.wikidata.org/wiki/Q959425",
+    "span": "Havre",
+    "label": "Havre",
+    "description": "city in Hill County, Montana, United States",
+    "type": "LOC"
+  },
+  "ID7": {
+    "url": "https://www.wikidata.org/wiki/Q7557553",
+    "span": "soleil",
+    "label": "Soleil",
+    "description": "Australian skyscraper",
+    "type": "LOC"
+  },
+  "ID8": {
+    "url": "https://www.wikidata.org/wiki/Q1471",
+    "span": "Seine",
+    "label": "Seine",
+    "description": "river in France",
+    "type": "LOC"
+  },
+  "ID9": {
+    "url": "https://www.wikidata.org/wiki/Q829407",
+    "span": "gaillard",
+    "label": "Gaillard",
+    "description": "commune in Haute-Savoie, France",
+    "type": "PER"
+  }
+}

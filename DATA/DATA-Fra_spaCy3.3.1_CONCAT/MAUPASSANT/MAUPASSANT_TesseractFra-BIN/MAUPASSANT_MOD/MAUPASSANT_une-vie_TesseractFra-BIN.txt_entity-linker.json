@@ -1,0 +1,142 @@
+{
+  "ID0": {
+    "url": "https://www.wikidata.org/wiki/Q3121507",
+    "span": "Guy",
+    "label": "Guy",
+    "description": "American R&B band",
+    "type": "PER"
+  },
+  "ID1": {
+    "url": "https://www.wikidata.org/wiki/Q142",
+    "span": "France",
+    "label": "France",
+    "description": "republic with mainland in Europe and numerous oversea territories",
+    "type": "LOC"
+  },
+  "ID2": {
+    "url": "https://www.wikidata.org/wiki/Q3121507",
+    "span": "Guy",
+    "label": "Guy",
+    "description": "American R&B band",
+    "type": "PER"
+  },
+  "ID3": {
+    "url": "https://www.wikidata.org/wiki/Q3121507",
+    "span": "Guy",
+    "label": "Guy",
+    "description": "American R&B band",
+    "type": "PER"
+  },
+  "ID4": {
+    "url": "https://www.wikidata.org/wiki/Q142",
+    "span": "France",
+    "label": "France",
+    "description": "republic with mainland in Europe and numerous oversea territories",
+    "type": "LOC"
+  },
+  "ID5": {
+    "url": "https://www.wikidata.org/wiki/Q193563",
+    "span": "BnF",
+    "label": "Biblioth\u00e8que nationale de France",
+    "description": "National Library of France",
+    "type": "ORG"
+  },
+  "ID6": {
+    "url": "https://www.wikidata.org/wiki/Q79719",
+    "span": "LICENCE",
+    "label": "license",
+    "description": "set of permissions to use something",
+    "type": "MISC"
+  },
+  "ID7": {
+    "url": "https://www.wikidata.org/wiki/Q193563",
+    "span": "BnF",
+    "label": "Biblioth\u00e8que nationale de France",
+    "description": "National Library of France",
+    "type": "ORG"
+  },
+  "ID8": {
+    "url": "https://www.wikidata.org/wiki/Q193563",
+    "span": "BnF",
+    "label": "Biblioth\u00e8que nationale de France",
+    "description": "National Library of France",
+    "type": "ORG"
+  },
+  "ID9": {
+    "url": "https://www.wikidata.org/wiki/Q3444710",
+    "span": "carton",
+    "label": "carton",
+    "description": "box or container usually made of paperboard and sometimes of corrugated fiberboard",
+    "type": "MISC"
+  },
+  "ID10": {
+    "url": "https://www.wikidata.org/wiki/Q4904749",
+    "span": "biffa",
+    "label": "Biffa",
+    "description": "waste management company headquartered in High Wycombe, United Kingdom",
+    "type": "ORG"
+  },
+  "ID11": {
+    "url": "https://www.wikidata.org/wiki/Q1187079",
+    "span": "Jeannette",
+    "label": "Jeannette",
+    "description": "city of Pennsylvania",
+    "type": "PER"
+  },
+  "ID12": {
+    "url": "https://www.wikidata.org/wiki/Q63821555",
+    "span": "Jeanne",
+    "label": "Joan of Arc",
+    "description": "2019 film directed by Bruno Dumont",
+    "type": "PER"
+  },
+  "ID13": {
+    "url": "https://www.wikidata.org/wiki/Q33923",
+    "span": "Simon",
+    "label": "Peter",
+    "description": "apostle and first pope",
+    "type": "PER"
+  },
+  "ID14": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "PER"
+  },
+  "ID15": {
+    "url": "https://www.wikidata.org/wiki/Q1228422",
+    "span": "Disciple",
+    "label": "Disciple",
+    "description": "Christian metal band from the USA",
+    "type": "PER"
+  },
+  "ID16": {
+    "url": "https://www.wikidata.org/wiki/Q6527",
+    "span": "Rousseau",
+    "label": "Jean-Jacques Rousseau",
+    "description": "Genevan philosopher, writer, and composer",
+    "type": "PER"
+  },
+  "ID17": {
+    "url": "https://www.wikidata.org/wiki/Q1098",
+    "span": "U",
+    "label": "uranium",
+    "description": "radioactive, metallic element with the atomic number 92",
+    "type": "MISC"
+  },
+  "ID18": {
+    "url": "https://www.wikidata.org/wiki/Q4026988",
+    "span": "ue",
+    "label": "University of Evansville",
+    "description": "private university in Evansville, Indiana, United States",
+    "type": "ORG"
+  },
+  "ID19": {
+    "url": "https://www.wikidata.org/wiki/Q13434396",
+    "span": "VIF",
+    "label": "variance inflation factor",
+    "description": "measure of collinearity in statistical regression models",
+    "type": "MISC"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "ID0": {
+    "url": "https://www.wikidata.org/wiki/Q12003",
+    "span": "Cher",
+    "label": "Cher",
+    "description": "American singer/songwriter and actress",
+    "type": "LOC"
+  },
+  "ID1": {
+    "url": "https://www.wikidata.org/wiki/Q945051",
+    "span": "Toussaint",
+    "label": "Pierre Toussaint",
+    "description": "holy hairdresser",
+    "type": "PER"
+  },
+  "ID2": {
+    "url": "https://www.wikidata.org/wiki/Q59653365",
+    "span": "No\u00ebl",
+    "label": "Minuit, chr\u00e9tiens",
+    "description": "original song written and composed by Adolphe Adam (music) and Placide Cappeau (words); French Christmas canticle",
+    "type": "MISC"
+  },
+  "ID3": {
+    "url": "https://www.wikidata.org/wiki/Q1058292",
+    "span": "francs",
+    "label": "Francs",
+    "description": "commune in Gironde, France",
+    "type": "MISC"
+  },
+  "ID4": {
+    "url": "https://www.wikidata.org/wiki/Q179718",
+    "span": "Catherine",
+    "label": "Catherine of Alexandria",
+    "description": "Egyptian missionary, saint depicted with a wheel",
+    "type": "PER"
+  },
+  "ID5": {
+    "url": "https://www.wikidata.org/wiki/Q63821555",
+    "span": "Jeanne",
+    "label": "Joan of Arc",
+    "description": "2019 film directed by Bruno Dumont",
+    "type": "PER"
+  },
+  "ID6": {
+    "url": "https://www.wikidata.org/wiki/Q3027560",
+    "span": "Dieu",
+    "label": "Dieu",
+    "description": "book by Victor Hugo",
+    "type": "MISC"
+  },
+  "ID7": {
+    "url": "https://www.wikidata.org/wiki/Q3027560",
+    "span": "Dieu",
+    "label": "Dieu",
+    "description": "book by Victor Hugo",
+    "type": "MISC"
+  },
+  "ID8": {
+    "url": "https://www.wikidata.org/wiki/Q12003",
+    "span": "Cher",
+    "label": "Cher",
+    "description": "American singer/songwriter and actress",
+    "type": "LOC"
+  }
+}

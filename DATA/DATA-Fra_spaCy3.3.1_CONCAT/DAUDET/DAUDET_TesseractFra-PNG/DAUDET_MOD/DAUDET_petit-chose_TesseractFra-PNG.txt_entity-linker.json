@@ -1,0 +1,198 @@
+{
+  "ID0": {
+    "url": "https://www.wikidata.org/wiki/Q206221",
+    "span": "Languedoc",
+    "label": "Languedoc",
+    "description": "historical province of France",
+    "type": "LOC"
+  },
+  "ID1": {
+    "url": "https://www.wikidata.org/wiki/Q1237299",
+    "span": "Midi",
+    "label": "Southern France",
+    "description": "geographic region",
+    "type": "LOC"
+  },
+  "ID2": {
+    "url": "https://www.wikidata.org/wiki/Q7557553",
+    "span": "soleil",
+    "label": "Soleil",
+    "description": "Australian skyscraper",
+    "type": "LOC"
+  },
+  "ID3": {
+    "url": "https://www.wikidata.org/wiki/Q142",
+    "span": "France",
+    "label": "France",
+    "description": "republic with mainland in Europe and numerous oversea territories",
+    "type": "LOC"
+  },
+  "ID4": {
+    "url": "https://www.wikidata.org/wiki/Q220570",
+    "span": "PE",
+    "label": "pulmonary embolism",
+    "description": "blockage of the main artery of the lung or one of its branches by a substance that has travelled from elsewhere in the body",
+    "type": "ORG"
+  },
+  "ID5": {
+    "url": "https://www.wikidata.org/wiki/Q30",
+    "span": "US",
+    "label": "United States of America",
+    "description": "federal republic in North America",
+    "type": "LOC"
+  },
+  "ID6": {
+    "url": "https://www.wikidata.org/wiki/Q23482",
+    "span": "Marseille",
+    "label": "Marseille",
+    "description": "commune in Bouches-du-Rh\u00f4ne, the second largest city of France",
+    "type": "LOC"
+  },
+  "ID7": {
+    "url": "https://www.wikidata.org/wiki/Q1058292",
+    "span": "francs",
+    "label": "Francs",
+    "description": "commune in Gironde, France",
+    "type": "MISC"
+  },
+  "ID8": {
+    "url": "https://www.wikidata.org/wiki/Q23482",
+    "span": "Marseille",
+    "label": "Marseille",
+    "description": "commune in Bouches-du-Rh\u00f4ne, the second largest city of France",
+    "type": "LOC"
+  },
+  "ID9": {
+    "url": "https://www.wikidata.org/wiki/Q80115",
+    "span": "Daniel",
+    "label": "Book of Daniel",
+    "description": "book of the Bible",
+    "type": "PER"
+  },
+  "ID10": {
+    "url": "https://www.wikidata.org/wiki/Q23482",
+    "span": "Marseille",
+    "label": "Marseille",
+    "description": "commune in Bouches-du-Rh\u00f4ne, the second largest city of France",
+    "type": "LOC"
+  },
+  "ID11": {
+    "url": "https://www.wikidata.org/wiki/Q414232",
+    "span": "Mme",
+    "label": "Membrane metalloendopeptidase",
+    "description": "mammalian protein found in Homo sapiens",
+    "type": "PER"
+  },
+  "ID12": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "PER"
+  },
+  "ID13": {
+    "url": "https://www.wikidata.org/wiki/Q954961",
+    "span": "Colombe",
+    "label": "Colombe",
+    "description": "commune in Is\u00e8re, France",
+    "type": "LOC"
+  },
+  "ID14": {
+    "url": "https://www.wikidata.org/wiki/Q2164632",
+    "span": "Rouget",
+    "label": "Georges Rouget",
+    "description": "French painter",
+    "type": "PER"
+  },
+  "ID15": {
+    "url": "https://www.wikidata.org/wiki/Q1400",
+    "span": "PA",
+    "label": "Pennsylvania",
+    "description": "state of the United States",
+    "type": "ORG"
+  },
+  "ID16": {
+    "url": "https://www.wikidata.org/wiki/Q914307",
+    "span": "LL",
+    "label": "Ll",
+    "description": "digraph",
+    "type": "MISC"
+  },
+  "ID17": {
+    "url": "https://www.wikidata.org/wiki/Q1868524",
+    "span": "LS",
+    "label": "local search",
+    "description": "method for problem solving in optimization",
+    "type": "ORG"
+  },
+  "ID18": {
+    "url": "https://www.wikidata.org/wiki/Q571107",
+    "span": "SSL",
+    "label": "SSL",
+    "description": "aerospace company",
+    "type": "MISC"
+  },
+  "ID19": {
+    "url": "https://www.wikidata.org/wiki/Q310581",
+    "span": "dd",
+    "label": "dd",
+    "description": "command on Unix and Unix-like operating systems",
+    "type": "MISC"
+  },
+  "ID20": {
+    "url": "https://www.wikidata.org/wiki/Q220570",
+    "span": "PE",
+    "label": "pulmonary embolism",
+    "description": "blockage of the main artery of the lung or one of its branches by a substance that has travelled from elsewhere in the body",
+    "type": "ORG"
+  },
+  "ID21": {
+    "url": "https://www.wikidata.org/wiki/Q978185",
+    "span": "TS",
+    "label": "TypeScript",
+    "description": "programming language, superset of JavaScript that compiles to JavaScript",
+    "type": "ORG"
+  },
+  "ID22": {
+    "url": "https://www.wikidata.org/wiki/Q2164632",
+    "span": "Rouget",
+    "label": "Georges Rouget",
+    "description": "French painter",
+    "type": "PER"
+  },
+  "ID23": {
+    "url": "https://www.wikidata.org/wiki/Q2164632",
+    "span": "Rouget",
+    "label": "Georges Rouget",
+    "description": "French painter",
+    "type": "PER"
+  },
+  "ID24": {
+    "url": "https://www.wikidata.org/wiki/Q7557553",
+    "span": "soleil",
+    "label": "Soleil",
+    "description": "Australian skyscraper",
+    "type": "LOC"
+  },
+  "ID25": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "PER"
+  },
+  "ID26": {
+    "url": "https://www.wikidata.org/wiki/Q3027560",
+    "span": "Dieu",
+    "label": "Dieu",
+    "description": "book by Victor Hugo",
+    "type": "MISC"
+  },
+  "ID27": {
+    "url": "https://www.wikidata.org/wiki/Q3027560",
+    "span": "Dieu",
+    "label": "Dieu",
+    "description": "book by Victor Hugo",
+    "type": "MISC"
+  }
+}

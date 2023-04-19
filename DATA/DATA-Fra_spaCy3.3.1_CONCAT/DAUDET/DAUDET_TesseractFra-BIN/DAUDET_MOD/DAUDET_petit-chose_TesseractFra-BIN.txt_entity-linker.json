@@ -1,0 +1,212 @@
+{
+  "ID0": {
+    "url": "https://www.wikidata.org/wiki/Q206221",
+    "span": "Languedoc",
+    "label": "Languedoc",
+    "description": "historical province of France",
+    "type": "LOC"
+  },
+  "ID1": {
+    "url": "https://www.wikidata.org/wiki/Q1237299",
+    "span": "Midi",
+    "label": "Southern France",
+    "description": "geographic region",
+    "type": "LOC"
+  },
+  "ID2": {
+    "url": "https://www.wikidata.org/wiki/Q7557553",
+    "span": "soleil",
+    "label": "Soleil",
+    "description": "Australian skyscraper",
+    "type": "LOC"
+  },
+  "ID3": {
+    "url": "https://www.wikidata.org/wiki/Q142",
+    "span": "France",
+    "label": "France",
+    "description": "republic with mainland in Europe and numerous oversea territories",
+    "type": "LOC"
+  },
+  "ID4": {
+    "url": "https://www.wikidata.org/wiki/Q64590185",
+    "span": "RE",
+    "label": "Renew Europe",
+    "description": "political group in the European Parliament",
+    "type": "MISC"
+  },
+  "ID5": {
+    "url": "https://www.wikidata.org/wiki/Q494249",
+    "span": "TT",
+    "label": "Tokarev",
+    "description": "Soviet semi-automatic pistol",
+    "type": "ORG"
+  },
+  "ID6": {
+    "url": "https://www.wikidata.org/wiki/Q494249",
+    "span": "TT",
+    "label": "Tokarev",
+    "description": "Soviet semi-automatic pistol",
+    "type": "ORG"
+  },
+  "ID7": {
+    "url": "https://www.wikidata.org/wiki/Q494249",
+    "span": "TT",
+    "label": "Tokarev",
+    "description": "Soviet semi-automatic pistol",
+    "type": "ORG"
+  },
+  "ID8": {
+    "url": "https://www.wikidata.org/wiki/Q487391",
+    "span": "Lee",
+    "label": "Ailee",
+    "description": "Korean-American singer",
+    "type": "PER"
+  },
+  "ID9": {
+    "url": "https://www.wikidata.org/wiki/Q23482",
+    "span": "Marseille",
+    "label": "Marseille",
+    "description": "commune in Bouches-du-Rh\u00f4ne, the second largest city of France",
+    "type": "LOC"
+  },
+  "ID10": {
+    "url": "https://www.wikidata.org/wiki/Q1058292",
+    "span": "francs",
+    "label": "Francs",
+    "description": "commune in Gironde, France",
+    "type": "MISC"
+  },
+  "ID11": {
+    "url": "https://www.wikidata.org/wiki/Q23482",
+    "span": "Marseille",
+    "label": "Marseille",
+    "description": "commune in Bouches-du-Rh\u00f4ne, the second largest city of France",
+    "type": "LOC"
+  },
+  "ID12": {
+    "url": "https://www.wikidata.org/wiki/Q80115",
+    "span": "Daniel",
+    "label": "Book of Daniel",
+    "description": "book of the Bible",
+    "type": "PER"
+  },
+  "ID13": {
+    "url": "https://www.wikidata.org/wiki/Q23482",
+    "span": "Marseille",
+    "label": "Marseille",
+    "description": "commune in Bouches-du-Rh\u00f4ne, the second largest city of France",
+    "type": "LOC"
+  },
+  "ID14": {
+    "url": "https://www.wikidata.org/wiki/Q414232",
+    "span": "Mme",
+    "label": "Membrane metalloendopeptidase",
+    "description": "mammalian protein found in Homo sapiens",
+    "type": "PER"
+  },
+  "ID15": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "PER"
+  },
+  "ID16": {
+    "url": "https://www.wikidata.org/wiki/Q954961",
+    "span": "Colombe",
+    "label": "Colombe",
+    "description": "commune in Is\u00e8re, France",
+    "type": "LOC"
+  },
+  "ID17": {
+    "url": "https://www.wikidata.org/wiki/Q2164632",
+    "span": "Rouget",
+    "label": "Georges Rouget",
+    "description": "French painter",
+    "type": "PER"
+  },
+  "ID18": {
+    "url": "https://www.wikidata.org/wiki/Q682",
+    "span": "S",
+    "label": "sulfur",
+    "description": "element with the atomic number of 16",
+    "type": "MISC"
+  },
+  "ID19": {
+    "url": "https://www.wikidata.org/wiki/Q19786",
+    "span": "OT",
+    "label": "Old Testament",
+    "description": "part of the Christian Bible, composed prior to the 1st century BCE, mostly consisting of texts inherited from Judaism",
+    "type": "ORG"
+  },
+  "ID20": {
+    "url": "https://www.wikidata.org/wiki/Q7730684",
+    "span": "Door",
+    "label": "The Door",
+    "description": "2012 film by Istv\u00e1n Szab\u00f3",
+    "type": "MISC"
+  },
+  "ID21": {
+    "url": "https://www.wikidata.org/wiki/Q494249",
+    "span": "TT",
+    "label": "Tokarev",
+    "description": "Soviet semi-automatic pistol",
+    "type": "ORG"
+  },
+  "ID22": {
+    "url": "https://www.wikidata.org/wiki/Q56816581",
+    "span": "ST",
+    "label": "Star Trek: Short Treks",
+    "description": "spin-off miniseries",
+    "type": "MISC"
+  },
+  "ID23": {
+    "url": "https://www.wikidata.org/wiki/Q103184",
+    "span": "ART",
+    "label": "article",
+    "description": "word used with a noun to indicate the type of reference being made by the noun; one of word classes",
+    "type": "MISC"
+  },
+  "ID24": {
+    "url": "https://www.wikidata.org/wiki/Q2164632",
+    "span": "Rouget",
+    "label": "Georges Rouget",
+    "description": "French painter",
+    "type": "PER"
+  },
+  "ID25": {
+    "url": "https://www.wikidata.org/wiki/Q2164632",
+    "span": "Rouget",
+    "label": "Georges Rouget",
+    "description": "French painter",
+    "type": "PER"
+  },
+  "ID26": {
+    "url": "https://www.wikidata.org/wiki/Q7557553",
+    "span": "soleil",
+    "label": "Soleil",
+    "description": "Australian skyscraper",
+    "type": "LOC"
+  },
+  "ID27": {
+    "url": "https://www.wikidata.org/wiki/Q941049",
+    "span": "Jacques",
+    "label": "Jacques",
+    "description": "given name",
+    "type": "PER"
+  },
+  "ID28": {
+    "url": "https://www.wikidata.org/wiki/Q3027560",
+    "span": "Dieu",
+    "label": "Dieu",
+    "description": "book by Victor Hugo",
+    "type": "MISC"
+  },
+  "ID29": {
+    "url": "https://www.wikidata.org/wiki/Q3027560",
+    "span": "Dieu",
+    "label": "Dieu",
+    "description": "book by Victor Hugo",
+    "type": "MISC"
+  }
+}
