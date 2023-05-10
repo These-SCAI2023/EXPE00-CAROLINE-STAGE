@@ -1,0 +1,121 @@
+{
+  "ID0": {
+    "url": "https://www.wikidata.org/wiki/Q2897866",
+    "span": "Louis",
+    "label": "Louis",
+    "description": "unisex given name",
+    "type": "PER"
+  },
+  "ID1": {
+    "url": "https://www.wikidata.org/wiki/Q7738",
+    "span": "Louis XV",
+    "label": "Louis XV of France",
+    "description": "Bourbon monarch who ruled as King of France and of Navarre 1715-1774",
+    "type": "PER"
+  },
+  "ID2": {
+    "url": "https://www.wikidata.org/wiki/Q12661",
+    "span": "Nord",
+    "label": "Nord",
+    "description": "French department",
+    "type": "LOC"
+  },
+  "ID3": {
+    "url": "https://www.wikidata.org/wiki/Q142",
+    "span": "France",
+    "label": "France",
+    "description": "republic with mainland in Europe and numerous oversea territories",
+    "type": "LOC"
+  },
+  "ID4": {
+    "url": "https://www.wikidata.org/wiki/Q16",
+    "span": "Canada",
+    "label": "Canada",
+    "description": "country in North America",
+    "type": "LOC"
+  },
+  "ID5": {
+    "url": "https://www.wikidata.org/wiki/Q142",
+    "span": "France",
+    "label": "France",
+    "description": "republic with mainland in Europe and numerous oversea territories",
+    "type": "LOC"
+  },
+  "ID6": {
+    "url": "https://www.wikidata.org/wiki/Q9068",
+    "span": "Voltaire",
+    "label": "Voltaire",
+    "description": "French writer, historian, and philosopher",
+    "type": "PER"
+  },
+  "ID7": {
+    "url": "https://www.wikidata.org/wiki/Q142",
+    "span": "France",
+    "label": "France",
+    "description": "republic with mainland in Europe and numerous oversea territories",
+    "type": "LOC"
+  },
+  "ID8": {
+    "url": "https://www.wikidata.org/wiki/Q16",
+    "span": "Canada",
+    "label": "Canada",
+    "description": "country in North America",
+    "type": "LOC"
+  },
+  "ID9": {
+    "url": "https://www.wikidata.org/wiki/Q142",
+    "span": "France",
+    "label": "France",
+    "description": "republic with mainland in Europe and numerous oversea territories",
+    "type": "LOC"
+  },
+  "ID10": {
+    "url": "https://www.wikidata.org/wiki/Q6548",
+    "span": "Orl\u00e9ans",
+    "label": "Orl\u00e9ans",
+    "description": "city in north-central France",
+    "type": "LOC"
+  },
+  "ID11": {
+    "url": "https://www.wikidata.org/wiki/Q16",
+    "span": "Canada",
+    "label": "Canada",
+    "description": "country in North America",
+    "type": "LOC"
+  },
+  "ID12": {
+    "url": "https://www.wikidata.org/wiki/Q4256652",
+    "span": "Ferney",
+    "label": "Ferney",
+    "description": "unincorporated community in South Dakota",
+    "type": "LOC"
+  },
+  "ID13": {
+    "url": "https://www.wikidata.org/wiki/Q142",
+    "span": "France",
+    "label": "France",
+    "description": "republic with mainland in Europe and numerous oversea territories",
+    "type": "LOC"
+  },
+  "ID14": {
+    "url": "https://www.wikidata.org/wiki/Q286284",
+    "span": "Fran\u00e7ais",
+    "label": "Lubin Baugin",
+    "description": "French painter",
+    "type": "LOC"
+  },
+  "ID15": {
+    "url": "https://www.wikidata.org/wiki/Q1397",
+    "span": "Ohio",
+    "label": "Ohio",
+    "description": "state of the United States of America",
+    "type": "LOC"
+  },
+  "ID16": {
+    "url": "https://www.wikidata.org/wiki/Q3560702",
+    "span": "Virginie",
+    "label": "Virginie",
+    "description": "television series",
+    "type": "LOC"
+  }
+}

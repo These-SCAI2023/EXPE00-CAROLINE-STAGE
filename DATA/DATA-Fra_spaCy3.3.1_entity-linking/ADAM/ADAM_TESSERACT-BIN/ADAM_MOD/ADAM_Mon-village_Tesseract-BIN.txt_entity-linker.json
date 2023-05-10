@@ -1,0 +1,30 @@
+{
+  "ID0": {
+    "url": "https://www.wikidata.org/wiki/Q21450529",
+    "span": "Duclos",
+    "label": "Duclos",
+    "description": "family name",
+    "type": "PER"
+  },
+  "ID1": {
+    "url": "https://www.wikidata.org/wiki/Q34943",
+    "span": "Claude",
+    "label": "Ptolemy",
+    "description": "Greco-Egyptian writer and astronomer of Alexandria",
+    "type": "PER"
+  },
+  "ID2": {
+    "url": "https://www.wikidata.org/wiki/Q7081181",
+    "span": "oi",
+    "label": "oi",
+    "description": "interjection",
+    "type": "ORG"
+  },
+  "ID3": {
+    "url": "https://www.wikidata.org/wiki/Q688493",
+    "span": "couvet",
+    "label": "Couvet",
+    "description": "former municipality of Switzerland in Neuch\u00e2tel",
+    "type": "PER"
+  }
+}

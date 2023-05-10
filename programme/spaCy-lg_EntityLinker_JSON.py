@@ -57,7 +57,7 @@ for path in glob.glob(path_corpora):
 # print (dico_sent_tok)
     
 # print (dico_sent_tok)
-            stocker("%s_entity-linker.json"%path,dico_sent_tok)
+            stocker("%s_spaCy-trf-entity-linker.json"%path,dico_sent_tok)
     # with open ("resultat.json", "w", encoding="utf-8") as f:
     #       json.dump(dico_sent_tok, f)
         # Affichage des résultats ou sauvegarde dans un fichier, etc.
